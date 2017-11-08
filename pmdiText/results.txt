@@ -1,0 +1,453 @@
+itext7.zip:itext7-develop/barcodes/src/main/java/com/itextpdf/barcodes/Barcode39.java:46:	Avoid unused imports such as 'com.itextpdf.kernel.PdfException'
+itext7.zip:itext7-develop/barcodes/src/main/java/com/itextpdf/barcodes/Barcode39.java:47:	Avoid unused imports such as 'com.itextpdf.io.font.FontConstants'
+itext7.zip:itext7-develop/barcodes/src/main/java/com/itextpdf/barcodes/Barcode39.java:48:	Avoid unused imports such as 'com.itextpdf.io.font.PdfEncodings'
+itext7.zip:itext7-develop/barcodes/src/main/java/com/itextpdf/barcodes/Barcode39.java:50:	Avoid unused imports such as 'com.itextpdf.kernel.font.PdfFontFactory'
+itext7.zip:itext7-develop/barcodes/src/main/java/com/itextpdf/barcodes/Barcode39.java:56:	Avoid unused imports such as 'java.io.IOException'
+itext7.zip:itext7-develop/barcodes/src/main/java/com/itextpdf/barcodes/BarcodeCodabar.java:47:	Avoid unused imports such as 'com.itextpdf.io.font.FontConstants'
+itext7.zip:itext7-develop/barcodes/src/main/java/com/itextpdf/barcodes/BarcodeCodabar.java:48:	Avoid unused imports such as 'com.itextpdf.io.font.PdfEncodings'
+itext7.zip:itext7-develop/barcodes/src/main/java/com/itextpdf/barcodes/BarcodeCodabar.java:50:	Avoid unused imports such as 'com.itextpdf.kernel.font.PdfFontFactory'
+itext7.zip:itext7-develop/barcodes/src/main/java/com/itextpdf/barcodes/BarcodeDataMatrix.java:682:	Avoid unused local variables such as 'ci'.
+itext7.zip:itext7-develop/barcodes/src/main/java/com/itextpdf/barcodes/BarcodeDataMatrix.java:1082:	Ternary operators that can be simplified with || or &&
+itext7.zip:itext7-develop/barcodes/src/main/java/com/itextpdf/barcodes/BarcodeDataMatrix.java:1161:	Avoid unused method parameters such as 'dataSize'.
+itext7.zip:itext7-develop/barcodes/src/main/java/com/itextpdf/barcodes/BarcodeEAN.java:47:	Avoid unused imports such as 'com.itextpdf.io.font.FontConstants'
+itext7.zip:itext7-develop/barcodes/src/main/java/com/itextpdf/barcodes/BarcodeEAN.java:48:	Avoid unused imports such as 'com.itextpdf.io.font.PdfEncodings'
+itext7.zip:itext7-develop/barcodes/src/main/java/com/itextpdf/barcodes/BarcodeEAN.java:50:	Avoid unused imports such as 'com.itextpdf.kernel.font.PdfFontFactory'
+itext7.zip:itext7-develop/barcodes/src/main/java/com/itextpdf/barcodes/BarcodeEAN.java:56:	Avoid unused imports such as 'java.io.IOException'
+itext7.zip:itext7-develop/barcodes/src/main/java/com/itextpdf/barcodes/BarcodeEAN.java:267:	These nested if statements could be combined
+itext7.zip:itext7-develop/barcodes/src/main/java/com/itextpdf/barcodes/BarcodeInter25.java:48:	Avoid unused imports such as 'com.itextpdf.io.font.FontConstants'
+itext7.zip:itext7-develop/barcodes/src/main/java/com/itextpdf/barcodes/BarcodeInter25.java:49:	Avoid unused imports such as 'com.itextpdf.io.font.PdfEncodings'
+itext7.zip:itext7-develop/barcodes/src/main/java/com/itextpdf/barcodes/BarcodeInter25.java:51:	Avoid unused imports such as 'com.itextpdf.kernel.font.PdfFontFactory'
+itext7.zip:itext7-develop/barcodes/src/main/java/com/itextpdf/barcodes/BarcodePDF417.java:1402:	These nested if statements could be combined
+itext7.zip:itext7-develop/barcodes/src/main/java/com/itextpdf/barcodes/BarcodePostnet.java:186:	Unnecessary use of fully qualified name 'java.awt.Image' due to existing import 'java.awt.Image'
+itext7.zip:itext7-develop/barcodes/src/main/java/com/itextpdf/barcodes/BarcodeQRCode.java:253:	Avoid unused private methods such as 'getBitMatrix()'.
+itext7.zip:itext7-develop/barcodes/src/main/java/com/itextpdf/barcodes/qrcode/MatrixUtil.java:313:	These nested if statements could be combined
+itext7.zip:itext7-develop/forms/src/main/java/com/itextpdf/forms/PdfAcroForm.java:55:	Avoid unused imports such as 'com.itextpdf.kernel.pdf.PdfIndirectReference'
+itext7.zip:itext7-develop/forms/src/main/java/com/itextpdf/forms/PdfAcroForm.java:650:	These nested if statements could be combined
+itext7.zip:itext7-develop/forms/src/main/java/com/itextpdf/forms/fields/PdfFormField.java:1498:	These nested if statements could be combined
+itext7.zip:itext7-develop/forms/src/main/java/com/itextpdf/forms/fields/PdfFormField.java:2113:	These nested if statements could be combined
+itext7.zip:itext7-develop/forms/src/main/java/com/itextpdf/forms/fields/PdfFormField.java:2565:	These nested if statements could be combined
+itext7.zip:itext7-develop/forms/src/main/java/com/itextpdf/forms/xfa/XfaForm.java:90:	Unnecessary use of fully qualified name 'org.w3c.dom.Document' due to existing import 'org.w3c.dom.Document'
+itext7.zip:itext7-develop/forms/src/main/java/com/itextpdf/forms/xfa/XfaForm.java:406:	Unnecessary use of fully qualified name 'org.w3c.dom.Document' due to existing import 'org.w3c.dom.Document'
+itext7.zip:itext7-develop/forms/src/test/java/com/itextpdf/forms/PdfFormFieldTest.java:356:	Avoid unused local variables such as 'form'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/codec/Base64.java:412:	Avoid unused private methods such as 'usage(String)'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/codec/Base64.java:561:	Avoid unused local variables such as 'dontBreakLines'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/codec/CCITTG4Encoder.java:354:	Avoid unused private fields such as 'G3CODE_EOF'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/codec/CCITTG4Encoder.java:355:	Avoid unused private fields such as 'G3CODE_INCOMP'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/codec/Jbig2SegmentReader.java:97:	Avoid unused private fields such as 'number_of_pages'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/codec/LZWStringTable.java:194:	These nested if statements could be combined
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/codec/PngWriter.java:153:	Avoid unused private methods such as 'crc(byte,int,int)'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/codec/PngWriter.java:157:	Avoid unused private methods such as 'crc(byte)'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/codec/TIFFDirectory.java:587:	Avoid unused private methods such as 'readLong(RandomAccessFileOrArray)'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/codec/TIFFFaxDecoder.java:57:	Avoid unused private fields such as 'h'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/codec/TIFFFaxDecoder.java:72:	Avoid unused private fields such as 'uncompressedMode'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/codec/TIFFFaxDecoder.java:1297:	These nested if statements could be combined
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/codec/TIFFFaxDecoder.java:1325:	These nested if statements could be combined
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/codec/TIFFFaxDecompressor.java:64:	Avoid unused private fields such as 't4Options'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/codec/TIFFFaxDecompressor.java:842:	Avoid unused local variables such as 'color'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/codec/TIFFFaxDecompressor.java:1132:	Avoid unused local variables such as 'entranceCode'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/codec/TIFFFaxDecompressor.java:1291:	Avoid unused local variables such as 'twoBits'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/codec/brotli/dec/Decode.java:759:	This for loop could be simplified to a while loop
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/codec/brotli/dec/IntReader.java:15:	Avoid unused private fields such as 'intBuffer'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/codec/brotli/dec/Transform.java:7:	Too many static imports may lead to messy code
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/color/IccProfile.java:90:	Unnecessary use of fully qualified name 'com.itextpdf.io.IOException' due to existing import 'com.itextpdf.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/color/IccProfile.java:124:	Unnecessary use of fully qualified name 'com.itextpdf.io.IOException' due to existing import 'com.itextpdf.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/color/IccProfile.java:130:	Unnecessary use of fully qualified name 'com.itextpdf.io.IOException' due to existing import 'com.itextpdf.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/color/IccProfile.java:141:	Unnecessary use of fully qualified name 'com.itextpdf.io.IOException' due to existing import 'com.itextpdf.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/color/IccProfile.java:148:	Unnecessary use of fully qualified name 'com.itextpdf.io.IOException' due to existing import 'com.itextpdf.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/color/IccProfile.java:166:	Unnecessary use of fully qualified name 'com.itextpdf.io.IOException' due to existing import 'com.itextpdf.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/color/IccProfile.java:184:	Unnecessary use of fully qualified name 'com.itextpdf.io.IOException' due to existing import 'com.itextpdf.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/color/IccProfile.java:201:	Unnecessary use of fully qualified name 'com.itextpdf.io.IOException' due to existing import 'com.itextpdf.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/color/IccProfile.java:218:	Unnecessary use of fully qualified name 'com.itextpdf.io.IOException' due to existing import 'com.itextpdf.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/CFFFont.java:50:	Avoid unused imports such as 'java.util.Iterator'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/CFFFont.java:681:	Avoid unused local variables such as 'major'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/CFFFont.java:682:	Avoid unused local variables such as 'minor'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/CFFFont.java:684:	Avoid unused local variables such as 'offSize'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/CFFFont.java:946:	Avoid unused private fields such as 'offSize'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/CFFFont.java:1000:	Avoid unused local variables such as 'major'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/CFFFont.java:1000:	Avoid unused local variables such as 'minor'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/CFFFont.java:1146:	Avoid unused local variables such as 'format'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/CFFFontSubset.java:53:	Avoid unused imports such as 'java.util.Iterator'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/CFFFontSubset.java:248:	Avoid unused local variables such as 'Sid'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/CFFFontSubset.java:1253:	Avoid unused local variables such as 'major'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/CFFFontSubset.java:1254:	Avoid unused local variables such as 'minor'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/CFFFontSubset.java:1256:	Avoid unused local variables such as 'offSize'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/CMapEncoding.java:61:	Avoid unused private fields such as 'cid2Uni'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/FontCache.java:58:	Avoid unused imports such as 'java.util.Arrays'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/Pfm2afm.java:143:	Avoid unused imports such as 'java.io.OutputStreamWriter'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/Pfm2afm.java:444:	Avoid unused private fields such as 'vers'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/Pfm2afm.java:447:	Avoid unused private fields such as 'type'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/Pfm2afm.java:448:	Avoid unused private fields such as 'points'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/Pfm2afm.java:449:	Avoid unused private fields such as 'verres'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/Pfm2afm.java:450:	Avoid unused private fields such as 'horres'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/Pfm2afm.java:452:	Avoid unused private fields such as 'intleading'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/Pfm2afm.java:453:	Avoid unused private fields such as 'extleading'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/Pfm2afm.java:455:	Avoid unused private fields such as 'uline'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/Pfm2afm.java:456:	Avoid unused private fields such as 'overs'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/Pfm2afm.java:459:	Avoid unused private fields such as 'pixwidth'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/Pfm2afm.java:460:	Avoid unused private fields such as 'pixheight'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/Pfm2afm.java:466:	Avoid unused private fields such as 'defchar'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/Pfm2afm.java:467:	Avoid unused private fields such as 'brkchar'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/Pfm2afm.java:468:	Avoid unused private fields such as 'widthby'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/Pfm2afm.java:469:	Avoid unused private fields such as 'device'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/Pfm2afm.java:471:	Avoid unused private fields such as 'bits'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/Pfm2afm.java:472:	Avoid unused private fields such as 'bitoff'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/Pfm2afm.java:476:	Avoid unused private fields such as 'res1'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/Pfm2afm.java:478:	Avoid unused private fields such as 'res2'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/TrueTypeCollection.java:66:	Avoid unused constructor parameters such as 'encoding'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/TrueTypeCollection.java:86:	Avoid unused constructor parameters such as 'encoding'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/cmap/CMapContentParser.java:200:	Avoid using a branching statement as the last in a loop.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/cmap/CMapToUnicode.java:69:	Avoid unused constructor parameters such as 'emptyCMap'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/cmap/CMapToUnicode.java:185:	Avoid unused private methods such as 'createCharsFromSingleBytes(byte)'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/otf/GlyphLine.java:323:	Ensure you override both equals() and hashCode()
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/otf/GlyphLine.java:405:	Ensure you override both equals() and hashCode()
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/otf/GposLookupType4.java:108:	Avoid using a branching statement as the last in a loop.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/otf/GposLookupType5.java:118:	Avoid using a branching statement as the last in a loop.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/otf/GposLookupType6.java:121:	Avoid using a branching statement as the last in a loop.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/otf/GsubLookupType2.java:75:	These nested if statements could be combined
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/otf/GsubLookupType5.java:105:	Avoid using a branching statement as the last in a loop.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/otf/OpenTypeFeature.java:52:	Avoid unused private fields such as 'openTypeReader'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/otf/OtfClass.java:69:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/otf/OtfClass.java:91:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/otf/lookuptype6/SubTableLookup6Format3.java:50:	Avoid unused imports such as 'java.util.Arrays'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/woff2/Buffer.java:25:	Avoid unused imports such as 'java.io.BufferedInputStream'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/woff2/Buffer.java:26:	Avoid unused imports such as 'java.io.ByteArrayInputStream'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/woff2/Buffer.java:27:	Avoid unused imports such as 'java.io.DataInputStream'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/woff2/Buffer.java:28:	Avoid unused imports such as 'java.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/woff2/Woff2Dec.java:16:	Too many static imports may lead to messy code
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/woff2/Woff2Dec.java:71:	Avoid unused private fields such as 'kCheckSumAdjustmentOffset'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/woff2/Woff2Dec.java:74:	Avoid unused private fields such as 'kCompositeGlyphBegin'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/woff2/Woff2Dec.java:396:	Unnecessary use of fully qualified name 'Round.round4' due to existing static import 'com.itextpdf.io.font.woff2.Round.round4'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/woff2/Woff2Dec.java:433:	Avoid unused local variables such as 'version'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/woff2/Woff2Dec.java:1021:	These nested if statements could be combined
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/woff2/Woff2Dec.java:1033:	These nested if statements could be combined
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/woff2/Woff2Dec.java:1103:	Avoid unused local variables such as 'dst_offset'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/woff2/Woff2Dec.java:1112:	Unnecessary use of fully qualified name 'Round.round4' due to existing static import 'com.itextpdf.io.font.woff2.Round.round4'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/woff2/Woff2Dec.java:1123:	Unnecessary use of fully qualified name 'Round.round4' due to existing static import 'com.itextpdf.io.font.woff2.Round.round4'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/woff2/Woff2Dec.java:1130:	Unnecessary use of fully qualified name 'Round.round4' due to existing static import 'com.itextpdf.io.font.woff2.Round.round4'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/woff2/Woff2Dec.java:1136:	Avoid unused method parameters such as 'data'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/font/woff2/Woff2Dec.java:1136:	Avoid unused method parameters such as 'length'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/image/BmpImageHelper.java:1146:	Avoid unused private methods such as 'readShort(InputStream)'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/image/ImageData.java:217:	These nested if statements could be combined
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/image/ImageDataFactory.java:66:	Avoid unused private fields such as 'wmf'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/image/Jbig2ImageHelper.java:57:	Avoid unused private fields such as 'globals'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/image/Jpeg2000ImageHelper.java:66:	Avoid unused private fields such as 'JPIP_JPIP'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/image/Jpeg2000ImageHelper.java:74:	Avoid unused private fields such as 'JP2_URL'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/image/Jpeg2000ImageHelper.java:75:	Avoid unused private fields such as 'JP2_DBTL'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/image/Jpeg2000ImageHelper.java:77:	Avoid unused private fields such as 'JP2_JP2'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/image/PngImageHelper.java:723:	Avoid unused private methods such as 'getPixel(byte,int,int,int,int)'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/image/TiffImageData.java:74:	Avoid unused private methods such as 'getImage(URL,boolean,int,boolean)'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/image/TiffImageHelper.java:165:	Avoid unused local variables such as 'reverse'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/source/ByteBufferRandomAccessSource.java:86:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/source/ByteBufferRandomAccessSource.java:106:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/source/ByteBufferRandomAccessSource.java:133:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/source/FileChannelRandomAccessSource.java:79:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/source/FileChannelRandomAccessSource.java:82:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/source/FileChannelRandomAccessSource.java:92:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/source/FileChannelRandomAccessSource.java:108:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/source/FileChannelRandomAccessSource.java:115:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/source/FileChannelRandomAccessSource.java:126:	Avoid unused method parameters such as 'out'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/source/FileChannelRandomAccessSource.java:130:	Avoid unused method parameters such as 'in'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/source/PagedChannelRandomAccessSource.java:52:	Avoid unused imports such as 'java.io.Serializable'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/source/PagedChannelRandomAccessSource.java:93:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/source/PagedChannelRandomAccessSource.java:104:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/source/PagedChannelRandomAccessSource.java:118:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/source/PagedChannelRandomAccessSource.java:121:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/source/PagedChannelRandomAccessSource.java:147:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/source/PagedChannelRandomAccessSource.java:158:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/source/PagedChannelRandomAccessSource.java:167:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/source/PagedChannelRandomAccessSource.java:180:	Avoid unused method parameters such as 'out'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/source/PagedChannelRandomAccessSource.java:184:	Avoid unused method parameters such as 'in'.
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/util/FileUtil.java:152:	Unnecessary use of fully qualified name 'java.io.OutputStream' due to existing import 'java.io.OutputStream'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/util/FileUtil.java:156:	Unnecessary use of fully qualified name 'java.io.OutputStream' due to existing import 'java.io.OutputStream'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/util/FilterUtil.java:47:	Avoid unused imports such as 'com.itextpdf.io.codec.Base64'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/util/HashCode.java:104:	Ensure you override both equals() and hashCode()
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/util/IntHashtable.java:47:	No need to import a type that lives in the same package
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/util/StreamUtil.java:79:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.*'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/util/StreamUtil.java:110:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.*'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/util/StreamUtil.java:119:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.*'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/util/StreamUtil.java:173:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.*'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/util/StreamUtil.java:173:	Unnecessary use of fully qualified name 'java.io.OutputStream' due to existing import 'java.io.*'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/util/StreamUtil.java:185:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.*'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/util/StreamUtil.java:185:	Unnecessary use of fully qualified name 'java.io.OutputStream' due to existing import 'java.io.*'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/util/StreamUtil.java:204:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.*'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/util/StreamUtil.java:227:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.*'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/util/StreamUtil.java:227:	Unnecessary use of fully qualified name 'java.io.OutputStream' due to existing import 'java.io.*'
+itext7.zip:itext7-develop/io/src/main/java/com/itextpdf/io/util/SystemUtil.java:50:	Avoid unused imports such as 'java.util.StringTokenizer'
+itext7.zip:itext7-develop/io/src/test/java/com/itextpdf/io/font/woff2/SimpleWoff2DecodeTest.java:45:	Avoid unused imports such as 'org.junit.Assert'
+itext7.zip:itext7-develop/io/src/test/java/com/itextpdf/io/font/woff2/SimpleWoff2DecodeTest.java:46:	Avoid unused imports such as 'org.junit.Before'
+itext7.zip:itext7-develop/io/src/test/java/com/itextpdf/io/font/woff2/Woff2DecodeTest.java:50:	Avoid unused imports such as 'java.io.BufferedOutputStream'
+itext7.zip:itext7-develop/io/src/test/java/com/itextpdf/io/font/woff2/w3c/W3CWoff2DecodeTest.java:49:	Avoid unused imports such as 'java.io.BufferedOutputStream'
+itext7.zip:itext7-develop/io/src/test/java/com/itextpdf/io/font/woff2/w3c/W3CWoff2DecodeTest.java:51:	Avoid unused imports such as 'java.io.FileOutputStream'
+itext7.zip:itext7-develop/io/src/test/java/com/itextpdf/io/font/woff2/w3c/W3CWoff2DecodeTest.java:53:	Avoid unused imports such as 'java.io.OutputStream'
+itext7.zip:itext7-develop/io/src/test/java/com/itextpdf/io/font/woff2/w3c/format/BlocksMetadataPadding001Test.java:46:	Avoid unused imports such as 'org.junit.Ignore'
+itext7.zip:itext7-develop/io/src/test/java/com/itextpdf/io/font/woff2/w3c/format/HeaderFlavor001Test.java:46:	Avoid unused imports such as 'org.junit.Ignore'
+itext7.zip:itext7-develop/io/src/test/java/com/itextpdf/io/font/woff2/w3c/format/HeaderFlavor002Test.java:46:	Avoid unused imports such as 'org.junit.Ignore'
+itext7.zip:itext7-develop/io/src/test/java/com/itextpdf/io/font/woff2/w3c/format/HeaderReserved001Test.java:46:	Avoid unused imports such as 'org.junit.Ignore'
+itext7.zip:itext7-develop/io/src/test/java/com/itextpdf/io/font/woff2/w3c/format/TabledataHmtxTransform003Test.java:46:	Avoid unused imports such as 'org.junit.Ignore'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/Version.java:118:	These nested if statements could be combined
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/Version.java:119:	These nested if statements could be combined
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/color/PatternColor.java:50:	Avoid unused imports such as 'java.util.Objects'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/color/PatternColor.java:91:	Ensure you override both equals() and hashCode()
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/crypto/securityhandler/StandardHandlerUsingStandard40.java:109:	Avoid using a branching statement as the last in a loop.
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/events/EventDispatcher.java:113:	Avoid unused method parameters such as 'out'.
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/events/EventDispatcher.java:117:	Avoid unused method parameters such as 'in'.
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/events/IEventHandler.java:46:	Avoid unused imports such as 'java.io.Serializable'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/font/PdfFont.java:53:	Avoid unused imports such as 'com.itextpdf.kernel.pdf.PdfDocument'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/font/PdfType0Font.java:277:	Avoid unused local variables such as 'i'.
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/font/PdfType1Font.java:82:	Avoid unused local variables such as 'fillStandardEncoding'.
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/geom/Rectangle.java:46:	Avoid unused imports such as 'com.itextpdf.io.util.ArrayUtil'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/EncryptionProperties.java:48:	Avoid unused imports such as 'java.util.Random'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfCatalog.java:410:	These nested if statements could be combined
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfDocument.java:1745:	These nested if statements could be combined
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfEncryptor.java:46:	Avoid unused imports such as 'com.itextpdf.kernel.PdfException'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfEncryptor.java:49:	Avoid unused imports such as 'java.security.cert.Certificate'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfObjectStream.java:49:	Avoid unused imports such as 'java.io.IOException'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfOutputStream.java:512:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfOutputStream.java:524:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfReader.java:61:	Avoid duplicate imports such as 'java.io.IOException'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfReader.java:139:	Unnecessary use of fully qualified name 'java.io.File' due to existing import 'java.io.*'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfReader.java:1203:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.*'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfReader.java:1203:	Unnecessary use of fully qualified name 'java.io.ObjectInputStream' due to existing import 'java.io.*'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfReader.java:1213:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.*'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfReader.java:1213:	Unnecessary use of fully qualified name 'java.io.ObjectOutputStream' due to existing import 'java.io.*'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfResources.java:643:	These nested if statements could be combined
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfString.java:46:	Avoid unused imports such as 'com.itextpdf.io.LogMessageConstant'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfString.java:51:	Avoid unused imports such as 'org.slf4j.Logger'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfString.java:52:	Avoid unused imports such as 'org.slf4j.LoggerFactory'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfWriter.java:58:	Avoid unused imports such as 'java.util.HashMap'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfWriter.java:112:	Unnecessary use of fully qualified name 'java.io.OutputStream' due to existing import 'java.io.OutputStream'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfWriter.java:116:	Unnecessary use of fully qualified name 'java.io.OutputStream' due to existing import 'java.io.OutputStream'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfWriter.java:159:	Ternary operators that can be simplified with || or &&
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfWriter.java:206:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfWriter.java:220:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfWriter.java:236:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfWriter.java:440:	These nested if statements could be combined
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfWriter.java:488:	These nested if statements could be combined
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfWriter.java:553:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfWriter.java:563:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/PdfXrefTable.java:453:	Avoid using a branching statement as the last in a loop.
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/action/PdfAction.java:50:	Avoid unused imports such as 'com.itextpdf.kernel.pdf.PdfDocument'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/action/PdfMediaClipData.java:47:	Avoid unused imports such as 'com.itextpdf.kernel.pdf.PdfDocument'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/action/PdfRendition.java:47:	Avoid unused imports such as 'com.itextpdf.kernel.pdf.PdfDocument'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/annot/InteriorColorUtil.java:50:	Avoid unused imports such as 'com.itextpdf.kernel.pdf.PdfName'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/annot/PdfMarkupAnnotation.java:48:	Avoid unused imports such as 'com.itextpdf.kernel.color.DeviceCmyk'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/annot/PdfMarkupAnnotation.java:49:	Avoid unused imports such as 'com.itextpdf.kernel.color.DeviceGray'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/annot/PdfMarkupAnnotation.java:50:	Avoid unused imports such as 'com.itextpdf.kernel.color.DeviceRgb'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/annot/PdfMarkupAnnotation.java:58:	Avoid unused imports such as 'com.itextpdf.kernel.pdf.tagging.PdfMcrDictionary'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/annot/PdfStampAnnotation.java:47:	Avoid unused imports such as 'com.itextpdf.kernel.pdf.PdfArray'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/canvas/PdfCanvas.java:2286:	Avoid unused method parameters such as 'dummy'.
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/canvas/PdfCanvas.java:2371:	Avoid unused method parameters such as 'dummy'.
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/canvas/PdfCanvas.java:2382:	These nested if statements could be combined
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/canvas/parser/PdfCanvasProcessor.java:973:	These nested if statements could be combined
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/canvas/parser/clipper/DefaultClipper.java:121:	These nested if statements could be combined
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/canvas/parser/clipper/DefaultClipper.java:1392:	These nested if statements could be combined
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/canvas/parser/clipper/Edge.java:154:	Avoid using a branching statement as the last in a loop.
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/canvas/parser/clipper/Path.java:393:	These nested if statements could be combined
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/canvas/parser/clipper/Point.java:229:	Ensure you override both equals() and hashCode()
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/canvas/parser/data/TextRenderInfo.java:178:	These nested if statements could be combined
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/canvas/parser/data/TextRenderInfo.java:432:	These nested if statements could be combined
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/canvas/parser/data/TextRenderInfo.java:601:	Avoid unused private methods such as 'getCharCode(String)'.
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/canvas/parser/listener/RegexBasedLocationExtractionStrategy.java:101:	Unnecessary use of fully qualified name 'java.util.Collections.sort' due to existing import 'java.util.Collections'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/canvas/parser/util/PdfCanvasParser.java:223:	Avoid using a branching statement as the last in a loop.
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/canvas/wmf/MetaDo.java:558:	Avoid unused local variables such as 'rop'.
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/canvas/wmf/WmfImageHelper.java:69:	Avoid unused private fields such as 'plainWidth'.
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/canvas/wmf/WmfImageHelper.java:70:	Avoid unused private fields such as 'plainHeight'.
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/colorspace/PdfCieBasedCs.java:50:	Avoid unused imports such as 'com.itextpdf.kernel.pdf.PdfDocument'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/colorspace/PdfPattern.java:49:	Avoid unused imports such as 'com.itextpdf.kernel.pdf.PdfDocument'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/colorspace/PdfShading.java:49:	Avoid unused imports such as 'com.itextpdf.kernel.pdf.PdfDocument'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/colorspace/PdfSpecialCs.java:49:	Avoid unused imports such as 'com.itextpdf.kernel.pdf.PdfDocument'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/function/PdfFunction.java:48:	Avoid unused imports such as 'com.itextpdf.kernel.pdf.PdfDocument'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/layer/PdfLayer.java:46:	Avoid unused imports such as 'com.itextpdf.kernel.PdfException'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/layer/PdfLayerMembership.java:46:	Avoid unused imports such as 'com.itextpdf.kernel.PdfException'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/layer/PdfOCProperties.java:47:	Avoid unused imports such as 'com.itextpdf.kernel.PdfException'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/layer/PdfVisibilityExpression.java:46:	Avoid unused imports such as 'com.itextpdf.kernel.PdfException'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/tagutils/TagStructureContext.java:554:	Avoid unused method parameters such as 'out'.
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/tagutils/TagStructureContext.java:558:	Avoid unused method parameters such as 'in'.
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/tagutils/TagTreePointer.java:736:	These nested if statements could be combined
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/tagutils/TagTreePointer.java:780:	Avoid unused method parameters such as 'out'.
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/pdf/tagutils/TagTreePointer.java:784:	Avoid unused method parameters such as 'in'.
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/utils/TaggedPdfReaderTool.java:186:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/utils/TaggedPdfReaderTool.java:210:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/utils/TaggedPdfReaderTool.java:245:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/xmp/impl/ISO8601Converter.java:395:	Do not hard code the IP address 
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/xmp/impl/XMPSerializerRDF.java:248:	These nested if statements could be combined
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/xmp/impl/XMPUtilsImpl.java:260:	Avoid using a branching statement as the last in a loop.
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/xmp/impl/XMPUtilsImpl.java:450:	These nested if statements could be combined
+itext7.zip:itext7-develop/kernel/src/main/java/com/itextpdf/kernel/xmp/impl/XMPUtilsImpl.java:476:	These nested if statements could be combined
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/geom/MatrixTest.java:45:	No need to import a type that lives in the same package
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/geom/VectorTest.java:45:	No need to import a type that lives in the same package
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/geom/VectorTest.java:46:	No need to import a type that lives in the same package
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/EncodingTest.java:58:	Avoid unused imports such as 'org.junit.Ignore'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/FreeReferencesTest.java:760:	Avoid unused local variables such as 'newIndRef1'.
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/FreeReferencesTest.java:761:	Avoid unused local variables such as 'newIndRef2'.
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/FreeReferencesTest.java:797:	Avoid unused local variables such as 'newIndRef1'.
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/FreeReferencesTest.java:798:	Avoid unused local variables such as 'newIndRef2'.
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/FreeReferencesTest.java:833:	Avoid unused local variables such as 'newIndRef1'.
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/FreeReferencesTest.java:834:	Avoid unused local variables such as 'newIndRef2'.
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/ParentTreeTest.java:102:	Avoid unused local variables such as 'secondPage'.
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/ParentTreeTest.java:118:	Avoid unused local variables such as 'firstPage'.
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/ParentTreeTest.java:150:	Avoid unused local variables such as 'firstPage'.
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfArrayTest.java:48:	Avoid unused imports such as 'org.junit.Ignore'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfArrayTest.java:52:	Avoid unused imports such as 'java.util.ArrayList'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfArrayTest.java:53:	Avoid unused imports such as 'java.util.Arrays'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfArrayTest.java:54:	Avoid unused imports such as 'java.util.List'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfArrayTest.java:55:	Avoid unused imports such as 'java.util.Map'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfCanvasTest.java:1491:	Avoid unused local variables such as 'canvas'.
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfDestinationTest.java:45:	Avoid unused imports such as 'com.itextpdf.io.LogMessageConstant'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfDestinationTest.java:53:	Avoid unused imports such as 'com.itextpdf.test.annotations.LogMessage'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfDestinationTest.java:54:	Avoid unused imports such as 'com.itextpdf.test.annotations.LogMessages'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfDocumentTest.java:48:	Avoid unused imports such as 'com.itextpdf.kernel.font.PdfFontFactory'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfDocumentTest.java:49:	Avoid unused imports such as 'com.itextpdf.kernel.pdf.canvas.PdfCanvas'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfDocumentTest.java:294:	Unnecessary use of fully qualified name 'Assert.assertTrue' due to existing static import 'org.junit.Assert.*'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfDocumentTest.java:334:	Unnecessary use of fully qualified name 'Assert.assertTrue' due to existing static import 'org.junit.Assert.*'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfDocumentTest.java:335:	Unnecessary use of fully qualified name 'Assert.assertEquals' due to existing static import 'org.junit.Assert.*'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfEncryptionTest.java:433:	Unnecessary use of fully qualified name 'Assert.fail' due to existing static import 'org.junit.Assert.fail'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfEncryptionTest.java:454:	Unnecessary use of fully qualified name 'Assert.fail' due to existing static import 'org.junit.Assert.fail'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfFontTest.java:59:	Avoid unused imports such as 'com.itextpdf.kernel.color.DeviceRgb'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfImageXObjectTest.java:45:	No need to import a type that lives in the same package
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfImageXObjectTest.java:46:	No need to import a type that lives in the same package
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfImageXObjectTest.java:47:	No need to import a type that lives in the same package
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfImageXObjectTest.java:48:	No need to import a type that lives in the same package
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfImageXObjectTest.java:49:	No need to import a type that lives in the same package
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfImageXObjectTest.java:50:	No need to import a type that lives in the same package
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfImageXObjectTest.java:51:	No need to import a type that lives in the same package
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfImageXObjectTest.java:52:	No need to import a type that lives in the same package
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfNameTest.java:46:	Avoid unused imports such as 'com.itextpdf.test.annotations.type.IntegrationTest'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfOutlineTest.java:55:	Avoid unused imports such as 'org.junit.Before'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfOutlineTest.java:60:	Avoid unused imports such as 'java.io.FileNotFoundException'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfOutlineTest.java:95:	Unnecessary use of fully qualified name 'Assert.assertNull' due to existing static import 'org.junit.Assert.assertNull'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfOutlineTest.java:145:	Unnecessary use of fully qualified name 'Assert.assertNull' due to existing static import 'org.junit.Assert.assertNull'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfOutlineTest.java:170:	Unnecessary use of fully qualified name 'Assert.assertNull' due to existing static import 'org.junit.Assert.assertNull'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfOutlineTest.java:201:	Unnecessary use of fully qualified name 'Assert.assertNull' due to existing static import 'org.junit.Assert.assertNull'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfOutlineTest.java:238:	Unnecessary use of fully qualified name 'Assert.assertNull' due to existing static import 'org.junit.Assert.assertNull'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfOutlineTest.java:382:	Unnecessary use of fully qualified name 'Assert.assertNull' due to existing static import 'org.junit.Assert.assertNull'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfPrimitivesTest.java:57:	Avoid unused imports such as 'java.nio.charset.Charset'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfPrimitivesTest.java:243:	Unnecessary use of fully qualified name 'com.itextpdf.io.LogMessageConstant.DIRECTONLY_OBJECT_CANNOT_BE_INDIRECT' due to existing import 'com.itextpdf.io.LogMessageConstant'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfReaderTest.java:56:	Avoid unused imports such as 'org.junit.Ignore'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfReaderTest.java:758:	Avoid unused local variables such as 'document'.
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfReaderTest.java:1562:	Avoid unused private methods such as 'getMemoryUse()'.
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfStampingTest.java:52:	Avoid unused imports such as 'org.junit.Ignore'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfStructElemTest.java:221:	Unnecessary use of fully qualified name 'Assert.assertEquals' due to existing static import 'org.junit.Assert.assertEquals'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfStructElemTest.java:223:	Unnecessary use of fully qualified name 'Assert.assertEquals' due to existing static import 'org.junit.Assert.assertEquals'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfStructElemTest.java:224:	Unnecessary use of fully qualified name 'Assert.assertEquals' due to existing static import 'org.junit.Assert.assertEquals'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/PdfXObjectTest.java:48:	Avoid unused imports such as 'com.itextpdf.io.util.FileUtil'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/TagTreePointerTest.java:49:	No need to import a type that lives in the same package
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/TagTreePointerTest.java:50:	No need to import a type that lives in the same package
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/TagTreePointerTest.java:51:	No need to import a type that lives in the same package
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/TagTreePointerTest.java:52:	No need to import a type that lives in the same package
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/TagTreePointerTest.java:53:	No need to import a type that lives in the same package
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/TagTreePointerTest.java:54:	No need to import a type that lives in the same package
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/TagTreePointerTest.java:55:	No need to import a type that lives in the same package
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/TagTreePointerTest.java:56:	No need to import a type that lives in the same package
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/TagTreePointerTest.java:60:	Avoid unused imports such as 'com.itextpdf.kernel.pdf.tagutils.AccessibilityProperties'
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/canvas/parser/FilteredTextEventListenerTest.java:46:	No need to import a type that lives in the same package
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/canvas/parser/IndicTextExtractionTest.java:46:	No need to import a type that lives in the same package
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/pdf/canvas/parser/IndicTextExtractionTest.java:47:	No need to import a type that lives in the same package
+itext7.zip:itext7-develop/kernel/src/test/java/com/itextpdf/kernel/utils/TaggedPdfReaderToolTest.java:50:	Avoid unused imports such as 'java.io.File'
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/element/Table.java:856:	Unnecessary use of fully qualified name 'java.util.List' due to existing import 'java.util.List'
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/element/Table.java:860:	Unnecessary use of fully qualified name 'java.util.List' due to existing import 'java.util.List'
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/layout/LayoutArea.java:48:	Avoid unused imports such as 'com.itextpdf.kernel.pdf.canvas.PdfCanvas'
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/layout/LayoutArea.java:49:	Avoid unused imports such as 'com.itextpdf.layout.border.Border'
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/margincollapse/MarginsCollapseHandler.java:184:	These nested if statements could be combined
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/margincollapse/MarginsCollapseHandler.java:229:	These nested if statements could be combined
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/margincollapse/MarginsCollapseHandler.java:312:	These nested if statements could be combined
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/minmaxwidth/RotationMinMaxWidth.java:46:	Avoid unused imports such as 'com.itextpdf.layout.renderer.AbstractRenderer'
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/property/Transform.java:47:	Avoid unused imports such as 'com.itextpdf.layout.renderer.IRenderer'
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/renderer/AbstractRenderer.java:1627:	These nested if statements could be combined
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/renderer/AccessibleAttributesApplier.java:207:	Avoid unused method parameters such as 'doc'.
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/renderer/BlockRenderer.java:333:	These nested if statements could be combined
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/renderer/BlockRenderer.java:809:	These nested if statements could be combined
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/renderer/BlockRenderer.java:934:	Avoid unused private methods such as 'clipPolygon(List,Point,Point)'.
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/renderer/CollapsedTableBorders.java:415:	These nested if statements could be combined
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/renderer/CollapsedTableBorders.java:537:	These nested if statements could be combined
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/renderer/ImageRenderer.java:67:	Avoid unused imports such as 'com.itextpdf.layout.property.BoxSizingPropertyValue'
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/renderer/LineRenderer.java:260:	These nested if statements could be combined
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/renderer/LineRenderer.java:273:	These nested if statements could be combined
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/renderer/LineSeparatorRenderer.java:95:	These nested if statements could be combined
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/renderer/RootRenderer.java:56:	Avoid unused imports such as 'com.itextpdf.layout.property.OverflowPropertyValue'
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/renderer/TableRenderer.java:227:	These nested if statements could be combined
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/renderer/TableRenderer.java:1032:	These nested if statements could be combined
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/renderer/TableRenderer.java:1288:	These nested if statements could be combined
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/renderer/TableRenderer.java:1368:	These nested if statements could be combined
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/renderer/TableRenderer.java:1461:	These nested if statements could be combined
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/renderer/TextRenderer.java:321:	These nested if statements could be combined
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/renderer/TextRenderer.java:379:	Avoid unused local variables such as 'pos'.
+itext7.zip:itext7-develop/layout/src/main/java/com/itextpdf/layout/renderer/TypographyUtils.java:192:	These nested if statements could be combined
+itext7.zip:itext7-develop/layout/src/test/java/com/itextpdf/layout/FontSelectorTest.java:245:	Avoid using a branching statement as the last in a loop.
+itext7.zip:itext7-develop/layout/src/test/java/com/itextpdf/layout/KeepWithNextTest.java:75:	Avoid unused private fields such as 'SHORT_TEXT'.
+itext7.zip:itext7-develop/layout/src/test/java/com/itextpdf/layout/PositioningTest.java:263:	Avoid unused local variables such as 'width'.
+itext7.zip:itext7-develop/layout/src/test/java/com/itextpdf/layout/TableTest.java:780:	Avoid unused local variables such as 'middleTextContent'.
+itext7.zip:itext7-develop/layout/src/test/java/com/itextpdf/layout/TableTest.java:837:	Avoid unused local variables such as 'middleTextContent'.
+itext7.zip:itext7-develop/layout/src/test/java/com/itextpdf/layout/TableTest.java:1496:	Avoid unused local variables such as 'textByron'.
+itext7.zip:itext7-develop/layout/src/test/java/com/itextpdf/layout/XMPWriterTest.java:83:	Avoid unused local variables such as 'os'.
+itext7.zip:itext7-develop/layout/src/test/java/com/itextpdf/layout/renderer/MinWidthTest.java:454:	Avoid unused local variables such as 'minMaxWidth'.
+itext7.zip:itext7-develop/layout/src/test/java/com/itextpdf/layout/renderer/MinWidthTest.java:486:	Avoid unused private methods such as 'toEffectiveTableColumnWidth(float)'.
+itext7.zip:itext7-develop/pdfa/src/main/java/com/itextpdf/pdfa/checker/PdfA1Checker.java:175:	These nested if statements could be combined
+itext7.zip:itext7-develop/pdfa/src/main/java/com/itextpdf/pdfa/checker/PdfA1Checker.java:180:	These nested if statements could be combined
+itext7.zip:itext7-develop/pdfa/src/main/java/com/itextpdf/pdfa/checker/PdfA1Checker.java:443:	These nested if statements could be combined
+itext7.zip:itext7-develop/pdfa/src/main/java/com/itextpdf/pdfa/checker/PdfA1Checker.java:470:	These nested if statements could be combined
+itext7.zip:itext7-develop/pdfa/src/main/java/com/itextpdf/pdfa/checker/PdfA1Checker.java:528:	These nested if statements could be combined
+itext7.zip:itext7-develop/pdfa/src/main/java/com/itextpdf/pdfa/checker/PdfA2Checker.java:217:	These nested if statements could be combined
+itext7.zip:itext7-develop/pdfa/src/main/java/com/itextpdf/pdfa/checker/PdfA2Checker.java:343:	These nested if statements could be combined
+itext7.zip:itext7-develop/pdfa/src/main/java/com/itextpdf/pdfa/checker/PdfA2Checker.java:358:	These nested if statements could be combined
+itext7.zip:itext7-develop/pdfa/src/main/java/com/itextpdf/pdfa/checker/PdfA2Checker.java:659:	These nested if statements could be combined
+itext7.zip:itext7-develop/pdfa/src/main/java/com/itextpdf/pdfa/checker/PdfA2Checker.java:664:	These nested if statements could be combined
+itext7.zip:itext7-develop/pdfa/src/main/java/com/itextpdf/pdfa/checker/PdfAChecker.java:424:	These nested if statements could be combined
+itext7.zip:itext7-develop/pdfa/src/test/java/com/itextpdf/pdfa/PdfA2AcroFormCheckTest.java:97:	Unnecessary use of fully qualified name 'Assert.fail' due to existing static import 'org.junit.Assert.fail'
+itext7.zip:itext7-develop/pdfa/src/test/java/com/itextpdf/pdfa/PdfA2EmbeddedFilesCheckTest.java:57:	Avoid unused imports such as 'org.junit.Ignore'
+itext7.zip:itext7-develop/pdfa/src/test/java/com/itextpdf/pdfa/PdfAFlushingTest.java:74:	Avoid duplicate imports such as 'org.junit.Assert.assertEquals'
+itext7.zip:itext7-develop/pdftest/src/main/java/com/itextpdf/test/annotations/LogMessage.java:46:	Avoid unused imports such as 'com.itextpdf.test.LogListener'
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/CRLVerifier.java:104:	These nested if statements could be combined
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/CertificateInfo.java:79:	Do not hard code the IP address 
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/CertificateInfo.java:84:	Do not hard code the IP address 
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/CertificateInfo.java:89:	Do not hard code the IP address 
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/CertificateInfo.java:94:	Do not hard code the IP address 
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/CertificateInfo.java:99:	Do not hard code the IP address 
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/CertificateInfo.java:104:	Do not hard code the IP address 
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/CertificateInfo.java:109:	Do not hard code the IP address 
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/CertificateInfo.java:114:	Do not hard code the IP address 
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/CertificateInfo.java:119:	Do not hard code the IP address 
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/CertificateInfo.java:124:	Do not hard code the IP address 
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/CertificateInfo.java:129:	Do not hard code the IP address 
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/CertificateInfo.java:134:	Do not hard code the IP address 
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/CertificateInfo.java:139:	Do not hard code the IP address 
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/CertificateUtil.java:122:	Avoid using a branching statement as the last in a loop.
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/CertificateVerifier.java:48:	Avoid unused imports such as 'java.security.PublicKey'
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/CrlClientOnline.java:96:	Avoid unused constructor parameters such as 'crls'.
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/LtvVerification.java:99:	Avoid unused private fields such as 'acroForm'.
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/OCSPVerifier.java:48:	Avoid unused imports such as 'org.bouncycastle.cert.X509CertificateHolder'
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/OCSPVerifier.java:49:	Avoid unused imports such as 'org.bouncycastle.cert.jcajce.JcaX509CertificateConverter'
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/OCSPVerifier.java:114:	These nested if statements could be combined
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/OcspClientBouncyCastle.java:138:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/OcspClientBouncyCastle.java:140:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.IOException'
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/PdfSignatureAppearance.java:821:	Unnecessary use of fully qualified name 'java.util.Calendar' due to existing import 'java.util.Calendar'
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/PdfSignatureAppearance.java:830:	Unnecessary use of fully qualified name 'java.util.Calendar' due to existing import 'java.util.Calendar'
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/PdfSigner.java:274:	Unnecessary use of fully qualified name 'java.util.Calendar' due to existing import 'java.util.Calendar'
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/PdfSigner.java:283:	Unnecessary use of fully qualified name 'java.util.Calendar' due to existing import 'java.util.Calendar'
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/PdfSigner.java:836:	Method call on object which may be null
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/PdfSigner.java:1152:	These nested if statements could be combined
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/RootStoreVerifier.java:52:	Avoid unused imports such as 'java.util.Enumeration'
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/SignUtils.java:297:	Do not hard code the IP address 
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/SignUtils.java:302:	Do not hard code the IP address 
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/SignUtils.java:308:	Avoid using a branching statement as the last in a loop.
+itext7.zip:itext7-develop/sign/src/main/java/com/itextpdf/signatures/SignatureUtil.java:59:	Avoid unused imports such as 'com.itextpdf.kernel.pdf.PdfObject'
+itext7.zip:itext7-develop/sign/src/test/java/com/itextpdf/signatures/sign/LtvSigTest.java:51:	Avoid unused imports such as 'com.itextpdf.kernel.utils.CompareTool'
+itext7.zip:itext7-develop/sign/src/test/java/com/itextpdf/signatures/sign/LtvSigTest.java:53:	Avoid unused imports such as 'com.itextpdf.signatures.PdfPKCS7'
+itext7.zip:itext7-develop/sign/src/test/java/com/itextpdf/signatures/sign/LtvSigTest.java:55:	Avoid unused imports such as 'com.itextpdf.signatures.SignatureUtil'
+itext7.zip:itext7-develop/sign/src/test/java/com/itextpdf/signatures/sign/LtvWithTwoSignatures.java:100:	Avoid unused local variables such as 'testTsa'.
+itext7.zip:itext7-develop/sign/src/test/java/com/itextpdf/signatures/sign/PadesSigTest.java:90:	Unnecessary use of fully qualified name 'org.bouncycastle.jce.provider.BouncyCastleProvider' due to existing import 'org.bouncycastle.jce.provider.BouncyCastleProvider'
+itext7.zip:itext7-develop/sign/src/test/java/com/itextpdf/signatures/sign/PadesSignatureLevelTest.java:57:	Avoid unused imports such as 'com.itextpdf.signatures.PdfPKCS7'
+itext7.zip:itext7-develop/sign/src/test/java/com/itextpdf/signatures/sign/PadesSignatureLevelTest.java:60:	Avoid unused imports such as 'com.itextpdf.signatures.SignatureUtil'
+itext7.zip:itext7-develop/sign/src/test/java/com/itextpdf/signatures/sign/PadesSignatureLevelTest.java:92:	Unnecessary use of fully qualified name 'org.bouncycastle.jce.provider.BouncyCastleProvider' due to existing import 'org.bouncycastle.jce.provider.BouncyCastleProvider'
+itext7.zip:itext7-develop/sign/src/test/java/com/itextpdf/signatures/sign/PadesSignatureLevelTest.java:141:	Avoid unused local variables such as 'testTsa'.
+itext7.zip:itext7-develop/sign/src/test/java/com/itextpdf/signatures/sign/SigningTest.java:53:	Avoid unused imports such as 'com.itextpdf.signatures.IExternalDigest'
+itext7.zip:itext7-develop/sign/src/test/java/com/itextpdf/signatures/sign/SigningTest.java:73:	Avoid unused imports such as 'java.security.KeyStore'
+itext7.zip:itext7-develop/sign/src/test/java/com/itextpdf/signatures/sign/SigningTest.java:81:	Avoid unused imports such as 'java.security.cert.CertificateFactory'
+itext7.zip:itext7-develop/sign/src/test/java/com/itextpdf/signatures/sign/SigningTest.java:82:	Avoid unused imports such as 'java.security.cert.X509Certificate'
+itext7.zip:itext7-develop/sign/src/test/java/com/itextpdf/signatures/sign/SigningTest.java:224:	Avoid unused local variables such as 'appearance'.
+itext7.zip:itext7-develop/sign/src/test/java/com/itextpdf/signatures/sign/TimestampSigTest.java:57:	Avoid unused imports such as 'java.security.cert.X509Certificate'
+itext7.zip:itext7-develop/sign/src/test/java/com/itextpdf/signatures/sign/TimestampSigTest.java:58:	Avoid unused imports such as 'java.util.ArrayList'
+itext7.zip:itext7-develop/sign/src/test/java/com/itextpdf/signatures/testutils/client/TestCrlClient.java:53:	Avoid unused imports such as 'java.util.Date'
+itext7.zip:itext7-develop/sign/src/test/java/com/itextpdf/signatures/verify/CrlVerifierTest.java:131:	Avoid using a branching statement as the last in a loop.
+itext7.zip:itext7-develop/sign/src/test/java/com/itextpdf/signatures/verify/OcspVerifierTest.java:58:	Avoid unused imports such as 'java.util.Date'
+22.3704619408

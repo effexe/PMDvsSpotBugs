@@ -1,0 +1,186 @@
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/Commands.java:395:	Avoid unused local variables such as 'commands'.
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/Commands.java:748:	Avoid unused method parameters such as 'out'.
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/Less.java:124:	These nested if statements could be combined
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/Nano.java:9:	Too many static imports may lead to messy code
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/Nano.java:857:	These nested if statements could be combined
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/Nano.java:921:	These nested if statements could be combined
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/Nano.java:1229:	These nested if statements could be combined
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/Nano.java:1252:	These nested if statements could be combined
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/Nano.java:1838:	These nested if statements could be combined
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/NfaMatcher.java:76:	These nested if statements could be combined
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/ScreenTerminal.java:331:	Avoid unused private methods such as 'scroll_line_left(int,int)'.
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/ScreenTerminal.java:376:	Avoid unused private methods such as 'cursor_left()'.
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/ScreenTerminal.java:742:	Avoid unused private methods such as 'esc_DECID()'.
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/ScreenTerminal.java:1060:	Avoid unused method parameters such as 'p'.
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/ScreenTerminal.java:1065:	Avoid unused method parameters such as 'p'.
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/ScreenTerminal.java:1079:	Avoid unused method parameters such as 'p'.
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/ScreenTerminal.java:1090:	These nested if statements could be combined
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/ScreenTerminal.java:1118:	These nested if statements could be combined
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/TTop.java:250:	Avoid unused method parameters such as 'signal'.
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/TTop.java:304:	Unnecessary use of fully qualified name 'Align.Left' due to existing static import 'org.jline.builtins.TTop.Align.Left'
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/Tmux.java:168:	Avoid unused private fields such as 'err'.
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/Tmux.java:334:	Avoid unused local variables such as 'event'.
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/Tmux.java:387:	Avoid unused method parameters such as 'signal'.
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/Tmux.java:534:	Unnecessary use of fully qualified name 'KeyMap.translate' due to existing static import 'org.jline.keymap.KeyMap.*'
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/Tmux.java:556:	Unnecessary use of fully qualified name 'KeyMap.translate' due to existing static import 'org.jline.keymap.KeyMap.*'
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/Tmux.java:612:	Unnecessary use of fully qualified name 'KeyMap.translate' due to existing static import 'org.jline.keymap.KeyMap.*'
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/Tmux.java:1175:	Unnecessary use of fully qualified name 'Type.TopBottom' due to existing static import 'org.jline.builtins.Tmux.Layout.Type.TopBottom'
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/Tmux.java:1185:	Unnecessary use of fully qualified name 'Type.TopBottom' due to existing static import 'org.jline.builtins.Tmux.Layout.Type.TopBottom'
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/Tmux.java:1345:	Unnecessary use of fully qualified name 'Type.TopBottom' due to existing static import 'org.jline.builtins.Tmux.Layout.Type.TopBottom'
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/Tmux.java:1357:	Unnecessary use of fully qualified name 'Type.TopBottom' due to existing static import 'org.jline.builtins.Tmux.Layout.Type.TopBottom'
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/Tmux.java:1384:	Unnecessary use of fully qualified name 'Type.WindowPane' due to existing static import 'org.jline.builtins.Tmux.Layout.Type.WindowPane'
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/Tmux.java:1417:	Unnecessary use of fully qualified name 'Type.WindowPane' due to existing static import 'org.jline.builtins.Tmux.Layout.Type.WindowPane'
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/Tmux.java:1565:	Unnecessary use of fully qualified name 'Type.WindowPane' due to existing static import 'org.jline.builtins.Tmux.Layout.Type.WindowPane'
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/Tmux.java:1602:	Unnecessary use of fully qualified name 'Type.TopBottom' due to existing static import 'org.jline.builtins.Tmux.Layout.Type.TopBottom'
+jline3.zip:jline3-master/builtins/src/main/java/org/jline/builtins/Tmux.java:1633:	These nested if statements could be combined
+jline3.zip:jline3-master/reader/src/main/java/org/jline/reader/impl/DefaultExpander.java:122:	Avoid modifying an outer loop incrementer in an inner loop for update expression
+jline3.zip:jline3-master/reader/src/main/java/org/jline/reader/impl/KillRing.java:76:	These nested if statements could be combined
+jline3.zip:jline3-master/reader/src/main/java/org/jline/reader/impl/KillRing.java:98:	These nested if statements could be combined
+jline3.zip:jline3-master/reader/src/main/java/org/jline/reader/impl/LineReaderImpl.java:9:	Too many static imports may lead to messy code
+jline3.zip:jline3-master/reader/src/main/java/org/jline/reader/impl/LineReaderImpl.java:201:	Avoid unused private fields such as 'forceChar'.
+jline3.zip:jline3-master/reader/src/main/java/org/jline/reader/impl/LineReaderImpl.java:202:	Avoid unused private fields such as 'forceLine'.
+jline3.zip:jline3-master/reader/src/main/java/org/jline/reader/impl/LineReaderImpl.java:3953:	These nested if statements could be combined
+jline3.zip:jline3-master/reader/src/main/java/org/jline/reader/impl/LineReaderImpl.java:3959:	These nested if statements could be combined
+jline3.zip:jline3-master/reader/src/main/java/org/jline/reader/impl/LineReaderImpl.java:4959:	These nested if statements could be combined
+jline3.zip:jline3-master/reader/src/main/java/org/jline/reader/impl/history/DefaultHistory.java:243:	These nested if statements could be combined
+jline3.zip:jline3-master/reader/src/test/java/org/jline/keymap/BindingReaderTest.java:13:	Avoid unused imports such as 'java.nio.charset.Charset'
+jline3.zip:jline3-master/reader/src/test/java/org/jline/keymap/KeyMapTest.java:9:	Too many static imports may lead to messy code
+jline3.zip:jline3-master/reader/src/test/java/org/jline/keymap/KeyMapTest.java:73:	Unnecessary use of fully qualified name 'Assert.assertEquals' due to existing static import 'org.junit.Assert.assertEquals'
+jline3.zip:jline3-master/reader/src/test/java/org/jline/reader/impl/EditLineTest.java:9:	Too many static imports may lead to messy code
+jline3.zip:jline3-master/reader/src/test/java/org/jline/reader/impl/KillRingTest.java:9:	Too many static imports may lead to messy code
+jline3.zip:jline3-master/reader/src/test/java/org/jline/reader/impl/MultiByteCharTest.java:15:	Avoid unused imports such as 'java.nio.charset.Charset'
+jline3.zip:jline3-master/reader/src/test/java/org/jline/reader/impl/ReaderTestSupport.java:9:	Too many static imports may lead to messy code
+jline3.zip:jline3-master/reader/src/test/java/org/jline/reader/impl/ReaderTestSupport.java:12:	Avoid unused imports such as 'java.nio.charset.Charset'
+jline3.zip:jline3-master/reader/src/test/java/org/jline/reader/impl/ViMoveModeTest.java:9:	Too many static imports may lead to messy code
+jline3.zip:jline3-master/reader/src/test/java/org/jline/reader/impl/WidgetTest.java:14:	Avoid unused imports such as 'org.jline.reader.Widget'
+jline3.zip:jline3-master/reader/src/test/java/org/jline/reader/impl/WidgetTest.java:15:	Avoid unused imports such as 'org.jline.utils.InputStreamReader'
+jline3.zip:jline3-master/reader/src/test/java/org/jline/reader/impl/WidgetTest.java:19:	Avoid unused imports such as 'java.io.PipedInputStream'
+jline3.zip:jline3-master/reader/src/test/java/org/jline/reader/impl/WidgetTest.java:20:	Avoid unused imports such as 'java.io.PipedOutputStream'
+jline3.zip:jline3-master/reader/src/test/java/org/jline/reader/impl/WidgetTest.java:21:	Avoid unused imports such as 'java.io.Reader'
+jline3.zip:jline3-master/reader/src/test/java/org/jline/reader/impl/WidgetTest.java:22:	Avoid unused imports such as 'java.nio.charset.Charset'
+jline3.zip:jline3-master/reader/src/test/java/org/jline/reader/impl/WidgetTest.java:24:	Avoid unused imports such as 'org.junit.Assert.assertEquals'
+jline3.zip:jline3-master/reader/src/test/java/org/jline/reader/impl/history/HistoryReaderTest.java:9:	Too many static imports may lead to messy code
+jline3.zip:jline3-master/remote-ssh/src/main/java/org/jline/builtins/ssh/ShellCommand.java:34:	Avoid unused private fields such as 'session'.
+jline3.zip:jline3-master/remote-telnet/src/main/java/org/jline/builtins/telnet/ConnectionManager.java:79:	Avoid using java.lang.ThreadGroup; it is not thread safe
+jline3.zip:jline3-master/remote-telnet/src/main/java/org/jline/builtins/telnet/TelnetIO.java:303:	Avoid unused private fields such as 'initializing'.
+jline3.zip:jline3-master/style/src/main/java/org/jline/style/MemoryStyleSource.java:63:	These nested if statements could be combined
+jline3.zip:jline3-master/style/src/main/java/org/jline/style/StyleExpression.java:15:	Avoid unused imports such as 'java.util.regex.Pattern'
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/JansiSupportImpl.java:67:	These nested if statements could be combined
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/freebsd/FreeBsdNativePty.java:15:	Avoid unused imports such as 'org.jline.terminal.impl.jansi.osx.OsXNativePty'
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/freebsd/FreeBsdNativePty.java:64:	Avoid unused private fields such as 'VERASE2'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/freebsd/FreeBsdNativePty.java:68:	Avoid unused private fields such as 'VDSUSP'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/freebsd/FreeBsdNativePty.java:75:	Avoid unused private fields such as 'VSTATUS'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/freebsd/FreeBsdNativePty.java:94:	Avoid unused private fields such as 'TAB0'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/freebsd/FreeBsdNativePty.java:95:	Avoid unused private fields such as 'TAB3'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/freebsd/FreeBsdNativePty.java:101:	Avoid unused private fields such as 'CSIZE'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:15:	Avoid unused imports such as 'org.jline.terminal.impl.jansi.osx.OsXNativePty'
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:64:	Avoid unused private fields such as 'VSWTC'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:84:	Avoid unused private fields such as 'IUCLC'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:92:	Avoid unused private fields such as 'OLCUC'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:100:	Avoid unused private fields such as 'NL0'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:101:	Avoid unused private fields such as 'NL1'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:103:	Avoid unused private fields such as 'CR0'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:104:	Avoid unused private fields such as 'CR1'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:105:	Avoid unused private fields such as 'CR2'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:106:	Avoid unused private fields such as 'CR3'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:108:	Avoid unused private fields such as 'TAB0'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:109:	Avoid unused private fields such as 'TAB1'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:110:	Avoid unused private fields such as 'TAB2'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:111:	Avoid unused private fields such as 'TAB3'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:112:	Avoid unused private fields such as 'XTABS'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:114:	Avoid unused private fields such as 'BS0'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:115:	Avoid unused private fields such as 'BS1'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:117:	Avoid unused private fields such as 'VT0'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:118:	Avoid unused private fields such as 'VT1'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:120:	Avoid unused private fields such as 'FF0'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:121:	Avoid unused private fields such as 'FF1'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:123:	Avoid unused private fields such as 'CBAUD'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:124:	Avoid unused private fields such as 'B0'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:125:	Avoid unused private fields such as 'B50'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:126:	Avoid unused private fields such as 'B75'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:127:	Avoid unused private fields such as 'B110'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:128:	Avoid unused private fields such as 'B134'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:129:	Avoid unused private fields such as 'B150'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:130:	Avoid unused private fields such as 'B200'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:131:	Avoid unused private fields such as 'B300'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:132:	Avoid unused private fields such as 'B600'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:133:	Avoid unused private fields such as 'B1200'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:134:	Avoid unused private fields such as 'B1800'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:135:	Avoid unused private fields such as 'B2400'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:136:	Avoid unused private fields such as 'B4800'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:137:	Avoid unused private fields such as 'B9600'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:140:	Avoid unused private fields such as 'EXTA'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:141:	Avoid unused private fields such as 'EXTB'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:142:	Avoid unused private fields such as 'CSIZE'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/linux/LinuxNativePty.java:156:	Avoid unused private fields such as 'XCASE'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:20:	Avoid unused imports such as 'org.jline.utils.ExecHelper.exec'
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:49:	Avoid unused private fields such as 'VSWTC'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:69:	Avoid unused private fields such as 'IUCLC'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:77:	Avoid unused private fields such as 'OLCUC'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:85:	Avoid unused private fields such as 'NL0'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:86:	Avoid unused private fields such as 'NL1'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:88:	Avoid unused private fields such as 'CR0'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:89:	Avoid unused private fields such as 'CR1'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:90:	Avoid unused private fields such as 'CR2'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:91:	Avoid unused private fields such as 'CR3'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:93:	Avoid unused private fields such as 'TAB0'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:94:	Avoid unused private fields such as 'TAB1'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:95:	Avoid unused private fields such as 'TAB2'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:96:	Avoid unused private fields such as 'TAB3'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:97:	Avoid unused private fields such as 'XTABS'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:99:	Avoid unused private fields such as 'BS0'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:100:	Avoid unused private fields such as 'BS1'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:102:	Avoid unused private fields such as 'VT0'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:103:	Avoid unused private fields such as 'VT1'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:105:	Avoid unused private fields such as 'FF0'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:106:	Avoid unused private fields such as 'FF1'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:108:	Avoid unused private fields such as 'CBAUD'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:109:	Avoid unused private fields such as 'B0'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:110:	Avoid unused private fields such as 'B50'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:111:	Avoid unused private fields such as 'B75'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:112:	Avoid unused private fields such as 'B110'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:113:	Avoid unused private fields such as 'B134'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:114:	Avoid unused private fields such as 'B150'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:115:	Avoid unused private fields such as 'B200'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:116:	Avoid unused private fields such as 'B300'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:117:	Avoid unused private fields such as 'B600'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:118:	Avoid unused private fields such as 'B1200'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:119:	Avoid unused private fields such as 'B1800'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:120:	Avoid unused private fields such as 'B2400'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:121:	Avoid unused private fields such as 'B4800'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:122:	Avoid unused private fields such as 'B9600'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:123:	Avoid unused private fields such as 'B19200'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:124:	Avoid unused private fields such as 'B38400'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:125:	Avoid unused private fields such as 'EXTA'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:126:	Avoid unused private fields such as 'EXTB'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:127:	Avoid unused private fields such as 'CSIZE'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/solaris/SolarisNativePty.java:141:	Avoid unused private fields such as 'XCASE'.
+jline3.zip:jline3-master/terminal-jansi/src/main/java/org/jline/terminal/impl/jansi/win/WindowsAnsiWriter.java:25:	Avoid duplicate imports such as 'org.fusesource.jansi.internal.Kernel32'
+jline3.zip:jline3-master/terminal-jna/src/main/java/org/jline/terminal/impl/jna/freebsd/FreeBsdNativePty.java:9:	Too many static imports may lead to messy code
+jline3.zip:jline3-master/terminal-jna/src/main/java/org/jline/terminal/impl/jna/freebsd/FreeBsdNativePty.java:33:	Unnecessary use of fully qualified name 'CLibrary.termios' due to existing static import 'org.jline.terminal.impl.jna.freebsd.CLibrary.termios'
+jline3.zip:jline3-master/terminal-jna/src/main/java/org/jline/terminal/impl/jna/freebsd/FreeBsdNativePty.java:33:	Unnecessary use of fully qualified name 'CLibrary.winsize' due to existing static import 'org.jline.terminal.impl.jna.freebsd.CLibrary.winsize'
+jline3.zip:jline3-master/terminal-jna/src/main/java/org/jline/terminal/impl/jna/linux/LinuxNativePty.java:9:	Too many static imports may lead to messy code
+jline3.zip:jline3-master/terminal-jna/src/main/java/org/jline/terminal/impl/jna/linux/LinuxNativePty.java:33:	Unnecessary use of fully qualified name 'CLibrary.termios' due to existing static import 'org.jline.terminal.impl.jna.linux.CLibrary.termios'
+jline3.zip:jline3-master/terminal-jna/src/main/java/org/jline/terminal/impl/jna/linux/LinuxNativePty.java:33:	Unnecessary use of fully qualified name 'CLibrary.winsize' due to existing static import 'org.jline.terminal.impl.jna.linux.CLibrary.winsize'
+jline3.zip:jline3-master/terminal-jna/src/main/java/org/jline/terminal/impl/jna/osx/OsXNativePty.java:9:	Too many static imports may lead to messy code
+jline3.zip:jline3-master/terminal-jna/src/main/java/org/jline/terminal/impl/jna/solaris/SolarisNativePty.java:9:	Too many static imports may lead to messy code
+jline3.zip:jline3-master/terminal-jna/src/main/java/org/jline/terminal/impl/jna/win/WindowsAnsiWriter.java:9:	Too many static imports may lead to messy code
+jline3.zip:jline3-master/terminal-jna/src/main/java/org/jline/terminal/impl/jna/win/WindowsAnsiWriter.java:72:	Avoid unused private fields such as 'MAX_ESCAPE_SEQUENCE_LENGTH'.
+jline3.zip:jline3-master/terminal/src/main/java/org/jline/terminal/impl/DumbTerminal.java:11:	Avoid unused imports such as 'java.io.FilterInputStream'
+jline3.zip:jline3-master/terminal/src/main/java/org/jline/terminal/impl/DumbTerminal.java:74:	Avoid using a branching statement as the last in a loop.
+jline3.zip:jline3-master/terminal/src/main/java/org/jline/terminal/impl/LineDisciplineTerminal.java:227:	These nested if statements could be combined
+jline3.zip:jline3-master/terminal/src/main/java/org/jline/terminal/impl/LineDisciplineTerminal.java:228:	These nested if statements could be combined
+jline3.zip:jline3-master/terminal/src/main/java/org/jline/utils/AttributedCharSequence.java:9:	Too many static imports may lead to messy code
+jline3.zip:jline3-master/terminal/src/main/java/org/jline/utils/AttributedCharSequence.java:77:	These nested if statements could be combined
+jline3.zip:jline3-master/terminal/src/main/java/org/jline/utils/AttributedStringBuilder.java:14:	Avoid unused imports such as 'java.util.function.Supplier'
+jline3.zip:jline3-master/terminal/src/main/java/org/jline/utils/AttributedStringBuilder.java:297:	These nested if statements could be combined
+jline3.zip:jline3-master/terminal/src/main/java/org/jline/utils/Display.java:276:	These nested if statements could be combined
+jline3.zip:jline3-master/terminal/src/main/java/org/jline/utils/Display.java:323:	Avoid unused local variables such as 'was'.
+jline3.zip:jline3-master/terminal/src/test/java/org/jline/terminal/impl/AbstractWindowsTerminalTest.java:16:	Avoid unused imports such as 'java.io.BufferedOutputStream'
+jline3.zip:jline3-master/terminal/src/test/java/org/jline/terminal/impl/AbstractWindowsTerminalTest.java:18:	Avoid unused imports such as 'java.io.ByteArrayOutputStream'
+jline3.zip:jline3-master/terminal/src/test/java/org/jline/terminal/impl/ExecPtyTest.java:121:	Unnecessary use of fully qualified name 'Assert.assertEquals' due to existing static import 'org.junit.Assert.assertEquals'
+jline3.zip:jline3-master/terminal/src/test/java/org/jline/terminal/impl/PosixSysTerminalTest.java:20:	Avoid unused imports such as 'java.nio.charset.Charset'
+jline3.zip:jline3-master/terminal/src/test/java/org/jline/utils/AttributedStringTest.java:3:	Avoid unused imports such as 'org.jline.terminal.Terminal'
+jline3.zip:jline3-master/terminal/src/test/java/org/jline/utils/AttributedStringTest.java:10:	Avoid unused imports such as 'java.nio.charset.Charset'
+jline3.zip:jline3-master/terminal/src/test/java/org/jline/utils/WriterOutputStreamTest.java:14:	Avoid unused imports such as 'java.nio.charset.Charset'
+6.90013504028

@@ -1,0 +1,1017 @@
+jEdit.zip:jEdit/com/ultramixer/jarbundler/AppBundleProperties.java:30:	Avoid importing anything from the package java.lang
+jEdit.zip:jEdit/com/ultramixer/jarbundler/HelpBook.java:28:	Avoid importing anything from the package java.lang
+jEdit.zip:jEdit/com/ultramixer/jarbundler/JarBundler.java:55:	Avoid importing anything from the package java.lang
+jEdit.zip:jEdit/com/ultramixer/jarbundler/JarBundler.java:56:	Avoid importing anything from the package java.lang
+jEdit.zip:jEdit/com/ultramixer/jarbundler/JarBundler.java:57:	Avoid importing anything from the package java.lang
+jEdit.zip:jEdit/com/ultramixer/jarbundler/PropertyListWriter.java:47:	Avoid importing anything from the package java.lang
+jEdit.zip:jEdit/com/ultramixer/jarbundler/PropertyListWriter.java:48:	Avoid importing anything from the package java.lang
+jEdit.zip:jEdit/com/ultramixer/jarbundler/PropertyListWriter.java:48:	Avoid unused imports such as 'java.lang.Double'
+jEdit.zip:jEdit/com/ultramixer/jarbundler/PropertyListWriter.java:49:	Avoid importing anything from the package java.lang
+jEdit.zip:jEdit/com/ultramixer/jarbundler/PropertyListWriter.java:50:	Avoid importing anything from the package java.lang
+jEdit.zip:jEdit/de/masters_of_disaster/ant/tasks/ar/ArEntry.java:74:	Do not start a literal by 0 unless its an octal value
+jEdit.zip:jEdit/installer/CBZip2InputStream.java:34:	Avoid unused private fields such as 'm_unseqToSeq'.
+jEdit.zip:jEdit/installer/CBZip2OutputStream.java:46:	Avoid unused private fields such as 'm_seqToUnseq'.
+jEdit.zip:jEdit/installer/ConsoleInstall.java:87:	These nested if statements could be combined
+jEdit.zip:jEdit/installer/NonInteractiveInstall.java:71:	These nested if statements could be combined
+jEdit.zip:jEdit/installer/OperatingSystem.java:236:	Avoid unused local variables such as 'name'.
+jEdit.zip:jEdit/installer/TarBuffer.java:39:	No need to explicitly extend Object.
+jEdit.zip:jEdit/installer/TarBuffer.java:187:	These nested if statements could be combined
+jEdit.zip:jEdit/installer/TarBuffer.java:217:	These nested if statements could be combined
+jEdit.zip:jEdit/installer/TarBuffer.java:254:	This for loop could be simplified to a while loop
+jEdit.zip:jEdit/installer/TarBuffer.java:281:	These nested if statements could be combined
+jEdit.zip:jEdit/installer/TarBuffer.java:475:	These nested if statements could be combined
+jEdit.zip:jEdit/installer/TarEntry.java:76:	No need to explicitly extend Object.
+jEdit.zip:jEdit/installer/TarEntry.java:453:	These nested if statements could be combined
+jEdit.zip:jEdit/installer/TarEntry.java:473:	This for loop could be simplified to a while loop
+jEdit.zip:jEdit/installer/TarEntry.java:482:	Do not start a literal by 0 unless its an octal value
+jEdit.zip:jEdit/installer/TarEntry.java:489:	Do not start a literal by 0 unless its an octal value
+jEdit.zip:jEdit/installer/TarEntry.java:605:	This for loop could be simplified to a while loop
+jEdit.zip:jEdit/installer/TarEntry.java:708:	Do not start a literal by 0 unless its an octal value
+jEdit.zip:jEdit/installer/TarEntry.java:708:	Do not start a literal by 0 unless its an octal value
+jEdit.zip:jEdit/installer/TarEntry.java:715:	Unnecessary use of fully qualified name 'java.util.Date' due to existing import 'java.util.Date'
+jEdit.zip:jEdit/installer/TarHeader.java:24:	No need to explicitly extend Object.
+jEdit.zip:jEdit/installer/TarInputStream.java:415:	This for loop could be simplified to a while loop
+jEdit.zip:jEdit/installer/TarOutputStream.java:297:	This for loop could be simplified to a while loop
+jEdit.zip:jEdit/org/gjt/sp/jedit/ActionListHandler.java:163:	Avoid unused private fields such as 'path'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/Buffer.java:37:	Avoid unused imports such as 'javax.swing.SwingWorker.StateValue'
+jEdit.zip:jEdit/org/gjt/sp/jedit/Buffer.java:46:	Avoid unused imports such as 'org.gjt.sp.jedit.bufferio.IoTask'
+jEdit.zip:jEdit/org/gjt/sp/jedit/Buffer.java:229:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/Buffer.java:601:	Avoid returning from a finally block
+jEdit.zip:jEdit/org/gjt/sp/jedit/Buffer.java:909:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/Buffer.java:1993:	Avoid returning from a finally block
+jEdit.zip:jEdit/org/gjt/sp/jedit/Buffer.java:2039:	Avoid returning from a finally block
+jEdit.zip:jEdit/org/gjt/sp/jedit/EditBus.java:375:	Avoid unused local variables such as 'msg'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/EditPane.java:263:	Unnecessary use of fully qualified name 'javax.swing.UIManager.getLookAndFeel' due to existing import 'javax.swing.UIManager'
+jEdit.zip:jEdit/org/gjt/sp/jedit/EditPane.java:313:	Unnecessary use of fully qualified name 'javax.swing.UIManager.getLookAndFeel' due to existing import 'javax.swing.UIManager'
+jEdit.zip:jEdit/org/gjt/sp/jedit/EditPane.java:506:	Unnecessary use of fully qualified name 'javax.swing.UIManager.getLookAndFeel' due to existing import 'javax.swing.UIManager'
+jEdit.zip:jEdit/org/gjt/sp/jedit/EditPane.java:544:	Unnecessary use of fully qualified name 'javax.swing.UIManager.getLookAndFeel' due to existing import 'javax.swing.UIManager'
+jEdit.zip:jEdit/org/gjt/sp/jedit/EditPane.java:584:	Unnecessary use of fully qualified name 'javax.swing.UIManager.getLookAndFeel' due to existing import 'javax.swing.UIManager'
+jEdit.zip:jEdit/org/gjt/sp/jedit/EditPane.java:635:	Unnecessary use of fully qualified name 'javax.swing.UIManager.getLookAndFeel' due to existing import 'javax.swing.UIManager'
+jEdit.zip:jEdit/org/gjt/sp/jedit/EditPane.java:1188:	Unnecessary use of fully qualified name 'org.gjt.sp.jedit.textarea.TextArea' due to existing import 'org.gjt.sp.jedit.textarea.TextArea'
+jEdit.zip:jEdit/org/gjt/sp/jedit/EditPane.java:1216:	Unnecessary use of fully qualified name 'org.gjt.sp.jedit.textarea.TextArea' due to existing import 'org.gjt.sp.jedit.textarea.TextArea'
+jEdit.zip:jEdit/org/gjt/sp/jedit/EditPane.java:1227:	Unnecessary use of fully qualified name 'org.gjt.sp.jedit.textarea.TextArea' due to existing import 'org.gjt.sp.jedit.textarea.TextArea'
+jEdit.zip:jEdit/org/gjt/sp/jedit/EditPlugin.java:418:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/EditPlugin.java:593:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/EditServer.java:81:	Do not start a literal by 0 unless its an octal value
+jEdit.zip:jEdit/org/gjt/sp/jedit/MiscUtilities.java:238:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/MiscUtilities.java:240:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/MiscUtilities.java:284:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/MiscUtilities.java:1361:	Do not start a literal by 0 unless its an octal value
+jEdit.zip:jEdit/org/gjt/sp/jedit/MiscUtilities.java:1363:	Do not start a literal by 0 unless its an octal value
+jEdit.zip:jEdit/org/gjt/sp/jedit/MiscUtilities.java:1365:	Do not start a literal by 0 unless its an octal value
+jEdit.zip:jEdit/org/gjt/sp/jedit/MiscUtilities.java:1367:	Do not start a literal by 0 unless its an octal value
+jEdit.zip:jEdit/org/gjt/sp/jedit/MiscUtilities.java:1369:	Do not start a literal by 0 unless its an octal value
+jEdit.zip:jEdit/org/gjt/sp/jedit/MiscUtilities.java:1371:	Do not start a literal by 0 unless its an octal value
+jEdit.zip:jEdit/org/gjt/sp/jedit/MiscUtilities.java:1373:	Do not start a literal by 0 unless its an octal value
+jEdit.zip:jEdit/org/gjt/sp/jedit/MiscUtilities.java:1375:	Do not start a literal by 0 unless its an octal value
+jEdit.zip:jEdit/org/gjt/sp/jedit/MiscUtilities.java:1377:	Do not start a literal by 0 unless its an octal value
+jEdit.zip:jEdit/org/gjt/sp/jedit/MiscUtilities.java:1379:	Do not start a literal by 0 unless its an octal value
+jEdit.zip:jEdit/org/gjt/sp/jedit/MiscUtilities.java:1387:	Do not start a literal by 0 unless its an octal value
+jEdit.zip:jEdit/org/gjt/sp/jedit/MiscUtilities.java:1389:	Do not start a literal by 0 unless its an octal value
+jEdit.zip:jEdit/org/gjt/sp/jedit/OperatingSystem.java:99:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/PerspectiveManager.java:26:	Avoid unused imports such as 'java.io.StreamTokenizer'
+jEdit.zip:jEdit/org/gjt/sp/jedit/PerspectiveManager.java:27:	Avoid unused imports such as 'java.io.StringReader'
+jEdit.zip:jEdit/org/gjt/sp/jedit/PerspectiveManager.java:31:	Avoid unused imports such as 'java.util.Stack'
+jEdit.zip:jEdit/org/gjt/sp/jedit/PluginJAR.java:462:	Avoid unused local variables such as 'needVersion'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/Registers.java:437:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/Registers.java:748:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/ServiceListHandler.java:127:	Avoid unused private fields such as 'uri'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/SettingsReloader.java:47:	Avoid unused local variables such as 'originalPath'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/View.java:1386:	Avoid unused local variables such as 'showToolbars'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/browser/BrowserView.java:192:	Unnecessary use of fully qualified name 'java.util.List' due to existing import 'java.util.*'
+jEdit.zip:jEdit/org/gjt/sp/jedit/browser/ListDirectoryBrowserTask.java:42:	Avoid unused private fields such as 'loadInfo'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/browser/VFSDirectoryEntryTable.java:285:	Avoid unused local variables such as 'jac'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/browser/VFSDirectoryEntryTable.java:386:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/browser/VFSDirectoryEntryTableModel.java:28:	Avoid unused imports such as 'org.gjt.sp.jedit.io.FileVFS'
+jEdit.zip:jEdit/org/gjt/sp/jedit/browser/VFSDirectoryEntryTableModel.java:452:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/browser/VFSFileChooserDialog.java:193:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/browser/VFSFileChooserDialog.java:265:	Avoid unused private methods such as 'getDefaultTitle()'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/browser/VFSFileChooserDialog.java:513:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/browser/VFSFileNameField.java:268:	Avoid unused private methods such as 'goToParent()'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/BSHAllocationExpression.java:79:	Avoid unused local variables such as 'namespace'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/BSHAllocationExpression.java:199:	Avoid unused method parameters such as 'args'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/BSHCastExpression.java:54:	Avoid unused local variables such as 'namespace'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/BSHCastExpression.java:61:	Avoid unused local variables such as 'fromType'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/BSHForStatement.java:51:	Avoid unused private fields such as 'parsed'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/BSHPrimarySuffix.java:79:	Avoid unused local variables such as 'namespace'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/BSHTryStatement.java:155:	Avoid unused local variables such as 'modifiers'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/BSHTryStatement.java:174:	Avoid using a branching statement as the last in a loop.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/BSHUnaryExpression.java:104:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/BshClassManager.java:38:	Avoid duplicate imports such as 'java.io.IOException'
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Interpreter.java:993:	Avoid unused private methods such as 'get_jj_input_stream()'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Interpreter.java:1171:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.*'
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/JavaCharStream.java:435:	Avoid unused constructor parameters such as 'buffersize'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/LHS.java:79:	Avoid unused constructor parameters such as 'nameSpace'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/LHS.java:79:	Avoid unused constructor parameters such as 'varName'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Name.java:916:	Avoid unused local variables such as 'bcm'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/NameSpace.java:261:	Ternary operators that can be simplified with || or &&
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/NameSpace.java:695:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/NameSpace.java:964:	Avoid unused local variables such as 'bcm'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:127:	Avoid unused local variables such as 'mess'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:141:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:146:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:229:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:232:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:293:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:296:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:298:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:371:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:374:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:376:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:402:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:405:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:407:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:472:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:475:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:477:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:514:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:517:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:519:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:642:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:645:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:647:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:700:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:703:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:705:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:750:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:753:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:755:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:811:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:814:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:816:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:866:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:869:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:871:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:1006:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:1071:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:1074:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:1076:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:1138:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:1163:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:1166:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:1168:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:1996:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:1999:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2001:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2039:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2042:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2044:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2070:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2073:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2075:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2185:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2188:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2190:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2230:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2262:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2273:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2310:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2313:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2315:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2328:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2332:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2397:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2400:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2402:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2474:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2477:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2479:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2550:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2553:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2555:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2685:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2688:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2690:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2800:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2803:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2805:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2847:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2850:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2852:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2889:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2892:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2894:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2923:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2926:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2928:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2967:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2970:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2972:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:2986:	Avoid unused local variables such as 't'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3109:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3112:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3114:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3177:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3180:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3182:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3192:	Avoid unused local variables such as 't'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3241:	Avoid unused local variables such as 't'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3271:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3274:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3276:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3313:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3316:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3318:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3439:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3442:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3444:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3477:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3480:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3482:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3509:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3512:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3514:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3560:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3560:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3569:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3572:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:3574:	Do not use if statements that are always true or always false
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:5706:	Unnecessary use of fully qualified name 'java.io.InputStream' due to existing import 'java.io.*'
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:5713:	Unnecessary use of fully qualified name 'java.io.InputStream' due to existing import 'java.io.*'
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:5721:	Unnecessary use of fully qualified name 'java.io.Reader' due to existing import 'java.io.*'
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Parser.java:5728:	Unnecessary use of fully qualified name 'java.io.Reader' due to existing import 'java.io.*'
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/ParserTokenManager.java:8:	Avoid unused method parameters such as 'active2'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/ParserTokenManager.java:1287:	Avoid unused private methods such as 'jjCheckNAddStates(int)'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/ParserTokenManager.java:1323:	Avoid unused local variables such as 'j'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/ParserTokenManager.java:1688:	Do not start a literal by 0 unless its an octal value
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/ParserTokenManager.java:1790:	Do not start a literal by 0 unless its an octal value
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/ParserTokenManager.java:1792:	Do not start a literal by 0 unless its an octal value
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/ParserTokenManager.java:1886:	Avoid unused method parameters such as 'i1'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/ParserTokenManager.java:1886:	Avoid unused method parameters such as 'l1'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/ParserTokenManager.java:2035:	Avoid unused local variables such as 'kind'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/ParserTokenManager.java:2062:	Do not start a literal by 0 unless its an octal value
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/ParserTokenManager.java:2070:	Do not start a literal by 0 unless its an octal value
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:134:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:265:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:268:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:272:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:276:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:294:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:298:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:301:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:305:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:309:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:312:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:371:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:375:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:378:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:382:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:386:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:389:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:449:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:453:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:456:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:460:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:464:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:467:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:511:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:515:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:518:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:522:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:526:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Primitive.java:529:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/This.java:273:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Types.java:134:	Avoid unused method parameters such as 'from'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/Types.java:134:	Avoid unused method parameters such as 'to'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/XThis.java:38:	Avoid duplicate imports such as 'java.lang.reflect.InvocationHandler'
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/XThis.java:152:	Avoid unused local variables such as 'callstack'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/XThis.java:169:	Avoid instantiating Boolean objects; reference Boolean.TRUE or Boolean.FALSE or call Boolean.valueOf() instead.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/classpath/BshClassLoader.java:147:	Avoid unused local variables such as 'c'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/classpath/BshClassPath.java:395:	Avoid unused local variables such as 'clas'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/classpath/BshClassPath.java:758:	Avoid unused local variables such as 'bcp'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/classpath/ClassManagerImpl.java:39:	Avoid duplicate imports such as 'java.io.IOException'
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/classpath/ClassManagerImpl.java:186:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/classpath/ClassManagerImpl.java:194:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/classpath/ClassManagerImpl.java:202:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/CodeWriter.java:562:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/CodeWriter.java:724:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/CodeWriter.java:948:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/CodeWriter.java:1048:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/CodeWriter.java:1352:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/CodeWriter.java:1466:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/CodeWriter.java:1527:	Avoid unused local variables such as 'source'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/bufferio/BufferAutosaveRequest.java:27:	Avoid duplicate imports such as 'java.io.Closeable'
+jEdit.zip:jEdit/org/gjt/sp/jedit/bufferio/BufferInsertRequest.java:27:	Avoid duplicate imports such as 'java.io.Closeable'
+jEdit.zip:jEdit/org/gjt/sp/jedit/bufferio/BufferSaveRequest.java:27:	Avoid duplicate imports such as 'java.io.Closeable'
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/AbstractContextOptionPane.java:31:	Avoid unused imports such as 'org.gjt.sp.jedit.browser.VFSBrowser'
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/BufferOptions.java:49:	Avoid unused constructor parameters such as 'buffer'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/CompleteWord.java:229:	Avoid unused local variables such as '_keywordMap'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/CompleteWord.java:298:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/CompleteWord.java:324:	Avoid unused private fields such as 'view'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/DefaultInputHandler.java:27:	Avoid unused imports such as 'java.awt.Toolkit'
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/DefaultInputHandler.java:165:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/DockablePanel.java:213:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/DockableWindowFactory.java:26:	Avoid unused imports such as 'java.awt.Color'
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/DockableWindowManager.java:173:	Avoid unused constructor parameters such as 'config'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/DockableWindowManagerImpl.java:490:	Unnecessary use of fully qualified name 'javax.swing.UIManager.getLookAndFeel' due to existing import 'javax.swing.UIManager'
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/ErrorListDialog.java:92:	Ensure you override both equals() and hashCode()
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/FontSelector.java:30:	Avoid unused imports such as 'java.util.ArrayList'
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/FontSelector.java:31:	Avoid unused imports such as 'java.util.List'
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/FontSelector.java:37:	Avoid unused imports such as 'org.gjt.sp.util.Log'
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/InputHandler.java:117:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/InputHandler.java:192:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/KeyEventWorkaround.java:28:	Avoid unused imports such as 'org.gjt.sp.jedit.OperatingSystem'
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/KeyEventWorkaround.java:216:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/KeyEventWorkaround.java:219:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/KeyEventWorkaround.java:230:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/PanelWindowContainer.java:230:	Unnecessary use of fully qualified name 'javax.swing.UIManager.getLookAndFeel' due to existing import 'javax.swing.UIManager'
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/PingPongList.java:467:	This usage of the Collection.toArray() method will throw a ClassCastException.
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/RolloverButton.java:31:	Avoid unused imports such as 'javax.swing.plaf.basic.BasicButtonUI'
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/RolloverButton.java:32:	Avoid unused imports such as 'javax.swing.plaf.basic.BasicBorders.ButtonBorder'
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/RolloverButton.java:33:	Avoid unused imports such as 'org.gjt.sp.jedit.OperatingSystem'
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/VariableGridLayout.java:259:	Avoid modifying an outer loop incrementer in an inner loop for update expression
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/VariableGridLayout.java:356:	Avoid modifying an outer loop incrementer in an inner loop for update expression
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/VariableGridLayout.java:421:	Avoid modifying an outer loop incrementer in an inner loop for update expression
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/statusbar/BufferSetWidgetFactory.java:34:	Avoid unused imports such as 'org.gjt.sp.jedit.msg.EditPaneUpdate'
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/statusbar/IndentWidgetFactory.java:26:	Avoid unused imports such as 'java.awt.Dimension'
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/statusbar/IndentWidgetFactory.java:27:	Avoid unused imports such as 'java.awt.Font'
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/statusbar/IndentWidgetFactory.java:28:	Avoid unused imports such as 'java.awt.FontMetrics'
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/statusbar/LastModifiedWidgetFactory.java:58:	Avoid unused private fields such as 'sdf'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/gui/statusbar/LastModifiedWidgetFactory.java:59:	Avoid unused private fields such as 'date'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/help/HelpIndex.java:383:	Ensure you override both equals() and hashCode()
+jEdit.zip:jEdit/org/gjt/sp/jedit/help/HelpSearchPanel.java:210:	Unnecessary use of fully qualified name 'java.util.List' due to existing import 'java.util.*'
+jEdit.zip:jEdit/org/gjt/sp/jedit/help/HelpViewer.java:402:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/indent/OpenBracketIndentRule.java:90:	Avoid unused private fields such as 'aligned'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/input/TextAreaInputHandler.java:290:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/io/FileVFS.java:28:	Avoid duplicate imports such as 'java.io.Closeable'
+jEdit.zip:jEdit/org/gjt/sp/jedit/io/FileVFS.java:355:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/io/FileVFS.java:490:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/io/FileVFS.java:614:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/io/VFS.java:29:	Avoid duplicate imports such as 'java.io.Closeable'
+jEdit.zip:jEdit/org/gjt/sp/jedit/io/VFS.java:1155:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/io/VFSFile.java:29:	Avoid duplicate imports such as 'java.io.Closeable'
+jEdit.zip:jEdit/org/gjt/sp/jedit/io/VFSFile.java:85:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/io/VFSManager.java:297:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/jEdit.java:25:	Avoid duplicate imports such as 'java.io.Closeable'
+jEdit.zip:jEdit/org/gjt/sp/jedit/jEdit.java:26:	Avoid duplicate imports such as 'java.io.IOException'
+jEdit.zip:jEdit/org/gjt/sp/jedit/jEdit.java:27:	Avoid duplicate imports such as 'java.io.UnsupportedEncodingException'
+jEdit.zip:jEdit/org/gjt/sp/jedit/jEdit.java:109:	Do not hard code the IP address 
+jEdit.zip:jEdit/org/gjt/sp/jedit/jEdit.java:1765:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/jEdit.java:4701:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/jEdit.java:4707:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/menu/RecentFilesProvider.java:118:	Ternary operators that can be simplified with || or &&
+jEdit.zip:jEdit/org/gjt/sp/jedit/options/EncodingsOptionPane.java:24:	Too many static imports may lead to messy code
+jEdit.zip:jEdit/org/gjt/sp/jedit/options/EncodingsOptionPane.java:80:	Unnecessary use of fully qualified name 'jEdit.getProperty' due to existing static import 'org.gjt.sp.jedit.jEdit.getProperty'
+jEdit.zip:jEdit/org/gjt/sp/jedit/options/EncodingsOptionPane.java:81:	Unnecessary use of fully qualified name 'jEdit.getProperty' due to existing static import 'org.gjt.sp.jedit.jEdit.getProperty'
+jEdit.zip:jEdit/org/gjt/sp/jedit/options/EncodingsOptionPane.java:82:	Unnecessary use of fully qualified name 'jEdit.getProperty' due to existing static import 'org.gjt.sp.jedit.jEdit.getProperty'
+jEdit.zip:jEdit/org/gjt/sp/jedit/options/EncodingsOptionPane.java:85:	Unnecessary use of fully qualified name 'jEdit.getProperty' due to existing static import 'org.gjt.sp.jedit.jEdit.getProperty'
+jEdit.zip:jEdit/org/gjt/sp/jedit/options/EncodingsOptionPane.java:93:	Unnecessary use of fully qualified name 'jEdit.getProperty' due to existing static import 'org.gjt.sp.jedit.jEdit.getProperty'
+jEdit.zip:jEdit/org/gjt/sp/jedit/options/EncodingsOptionPane.java:102:	Unnecessary use of fully qualified name 'jEdit.getProperty' due to existing static import 'org.gjt.sp.jedit.jEdit.getProperty'
+jEdit.zip:jEdit/org/gjt/sp/jedit/options/EncodingsOptionPane.java:104:	Unnecessary use of fully qualified name 'jEdit.getProperty' due to existing static import 'org.gjt.sp.jedit.jEdit.getProperty'
+jEdit.zip:jEdit/org/gjt/sp/jedit/options/EncodingsOptionPane.java:107:	Unnecessary use of fully qualified name 'jEdit.getProperty' due to existing static import 'org.gjt.sp.jedit.jEdit.getProperty'
+jEdit.zip:jEdit/org/gjt/sp/jedit/options/EncodingsOptionPane.java:109:	Unnecessary use of fully qualified name 'jEdit.getBooleanProperty' due to existing static import 'org.gjt.sp.jedit.jEdit.getBooleanProperty'
+jEdit.zip:jEdit/org/gjt/sp/jedit/options/EncodingsOptionPane.java:114:	Unnecessary use of fully qualified name 'jEdit.getProperty' due to existing static import 'org.gjt.sp.jedit.jEdit.getProperty'
+jEdit.zip:jEdit/org/gjt/sp/jedit/options/EncodingsOptionPane.java:116:	Unnecessary use of fully qualified name 'jEdit.getProperty' due to existing static import 'org.gjt.sp.jedit.jEdit.getProperty'
+jEdit.zip:jEdit/org/gjt/sp/jedit/options/EncodingsOptionPane.java:119:	Unnecessary use of fully qualified name 'jEdit.getProperty' due to existing static import 'org.gjt.sp.jedit.jEdit.getProperty'
+jEdit.zip:jEdit/org/gjt/sp/jedit/options/EncodingsOptionPane.java:121:	Unnecessary use of fully qualified name 'jEdit.getProperty' due to existing static import 'org.gjt.sp.jedit.jEdit.getProperty'
+jEdit.zip:jEdit/org/gjt/sp/jedit/options/EncodingsOptionPane.java:123:	Unnecessary use of fully qualified name 'jEdit.getProperty' due to existing static import 'org.gjt.sp.jedit.jEdit.getProperty'
+jEdit.zip:jEdit/org/gjt/sp/jedit/options/EncodingsOptionPane.java:167:	Unnecessary use of fully qualified name 'jEdit.setBooleanProperty' due to existing static import 'org.gjt.sp.jedit.jEdit.setBooleanProperty'
+jEdit.zip:jEdit/org/gjt/sp/jedit/pluginmgr/InstallPanel.java:1221:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/pluginmgr/MirrorList.java:193:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/pluginmgr/MirrorList.java:194:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/pluginmgr/MirrorList.java:199:	Ensure you override both equals() and hashCode()
+jEdit.zip:jEdit/org/gjt/sp/jedit/pluginmgr/MirrorListHandler.java:136:	Avoid unused private fields such as 'path'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/pluginmgr/PluginList.java:618:	Avoid unused private methods such as 'getAutoSelectedMirror()'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/pluginmgr/PluginList.java:619:	Unnecessary use of fully qualified name 'java.io.IOException' due to existing import 'java.io.*'
+jEdit.zip:jEdit/org/gjt/sp/jedit/pluginmgr/PluginListHandler.java:226:	Avoid unused private fields such as 'path'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/pluginmgr/PluginManager.java:311:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/pluginmgr/PluginManager.java:321:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/pluginmgr/Roster.java:263:	Ensure you override both equals() and hashCode()
+jEdit.zip:jEdit/org/gjt/sp/jedit/pluginmgr/Roster.java:422:	Ensure you override both equals() and hashCode()
+jEdit.zip:jEdit/org/gjt/sp/jedit/print/BasicPrintPreviewPaneUI.java:43:	Avoid unused imports such as 'org.gjt.sp.jedit.gui.DropShadowBorder'
+jEdit.zip:jEdit/org/gjt/sp/jedit/print/BasicPrintPreviewPaneUI.java:223:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/print/PageBreakExtension.java:97:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/print/PrintPreview.java:41:	Avoid unused imports such as 'org.gjt.sp.util.Log'
+jEdit.zip:jEdit/org/gjt/sp/jedit/search/BoyerMooreSearchMatcher.java:210:	Avoid using a branching statement as the last in a loop.
+jEdit.zip:jEdit/org/gjt/sp/jedit/search/HyperSearchFileNode.java:80:	Ensure you override both equals() and hashCode()
+jEdit.zip:jEdit/org/gjt/sp/jedit/search/HyperSearchOperationNode.java:128:	Avoid using a branching statement as the last in a loop.
+jEdit.zip:jEdit/org/gjt/sp/jedit/search/HyperSearchResult.java:156:	Ensure you override both equals() and hashCode()
+jEdit.zip:jEdit/org/gjt/sp/jedit/search/HyperSearchResults.java:47:	Avoid unused imports such as 'org.gjt.sp.util.SyntaxUtilities'
+jEdit.zip:jEdit/org/gjt/sp/jedit/search/PatternSearchMatcher.java:142:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/search/SearchBar.java:118:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/syntax/Chunk.java:128:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/syntax/ModeProvider.java:43:	Avoid unused imports such as 'javax.swing.JOptionPane'
+jEdit.zip:jEdit/org/gjt/sp/jedit/syntax/ParserRule.java:355:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/syntax/ParserRule.java:396:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/syntax/TokenMarker.java:352:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/syntax/TokenMarker.java:868:	Avoid unused method parameters such as 'ctx'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/textarea/AntiAlias.java:87:	Ensure you override both equals() and hashCode()
+jEdit.zip:jEdit/org/gjt/sp/jedit/textarea/ChunkCache.java:120:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/textarea/ChunkCache.java:712:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/textarea/DisplayManager.java:26:	Avoid unused imports such as 'java.awt.Toolkit'
+jEdit.zip:jEdit/org/gjt/sp/jedit/textarea/ElasticTabStopBufferListener.java:29:	No need to import a type that lives in the same package
+jEdit.zip:jEdit/org/gjt/sp/jedit/textarea/FirstLine.java:60:	Avoid unused local variables such as 'numLinesVisible'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/textarea/Gutter.java:1046:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/textarea/RangeMap.java:99:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/textarea/RangeMap.java:101:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/textarea/ScrollLineCount.java:104:	Avoid unused local variables such as 'numLinesVisible'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/textarea/SelectionManager.java:115:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/jedit/textarea/TextAreaPainter.java:882:	Avoid unused local variables such as 'charHeight'.
+jEdit.zip:jEdit/org/gjt/sp/jedit/textarea/TextAreaTransferHandler.java:461:	These nested if statements could be combined
+jEdit.zip:jEdit/org/gjt/sp/util/StandardUtilities.java:132:	This for loop could be simplified to a while loop
+jEdit.zip:jEdit/org/gjt/sp/util/StringModel.java:5:	Avoid unused imports such as 'java.util.Iterator'
+jEdit.zip:jEdit/org/gjt/sp/util/ThreadUtilities.java:202:	Avoid using java.lang.ThreadGroup; it is not thread safe
+jEdit.zip:jEdit/org/jedit/options/OptionGroupPane.java:37:	Avoid unused imports such as 'javax.swing.event.EventListenerList'
+jEdit.zip:jEdit/org/jedit/options/OptionGroupPane.java:38:	Avoid unused imports such as 'javax.swing.event.TreeModelEvent'
+jEdit.zip:jEdit/org/jedit/options/OptionGroupPane.java:39:	Avoid unused imports such as 'javax.swing.event.TreeModelListener'
+jEdit.zip:jEdit/org/jedit/options/OptionGroupPane.java:42:	Avoid unused imports such as 'javax.swing.tree.TreeModel'
+jEdit.zip:jEdit/test/org/jedit/io/Native2ASCIIEncodingTest.java:22:	Too many static imports may lead to messy code
+jEdit.zip:__MACOSX/jEdit/com/ultramixer/jarbundler/._AppBundleProperties.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/com/ultramixer/jarbundler/._AppBundleProperties.java
+jEdit.zip:__MACOSX/jEdit/com/ultramixer/jarbundler/._DocumentType.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/com/ultramixer/jarbundler/._DocumentType.java
+jEdit.zip:__MACOSX/jEdit/com/ultramixer/jarbundler/._HelpBook.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/com/ultramixer/jarbundler/._HelpBook.java
+jEdit.zip:__MACOSX/jEdit/com/ultramixer/jarbundler/._JarBundler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/com/ultramixer/jarbundler/._JarBundler.java
+jEdit.zip:__MACOSX/jEdit/com/ultramixer/jarbundler/._JavaProperty.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/com/ultramixer/jarbundler/._JavaProperty.java
+jEdit.zip:__MACOSX/jEdit/com/ultramixer/jarbundler/._LSEnvironment.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/com/ultramixer/jarbundler/._LSEnvironment.java
+jEdit.zip:__MACOSX/jEdit/com/ultramixer/jarbundler/._PropertyListWriter.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/com/ultramixer/jarbundler/._PropertyListWriter.java
+jEdit.zip:__MACOSX/jEdit/com/ultramixer/jarbundler/._Service.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/com/ultramixer/jarbundler/._Service.java
+jEdit.zip:__MACOSX/jEdit/de/masters_of_disaster/ant/tasks/ar/._Ar.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/de/masters_of_disaster/ant/tasks/ar/._Ar.java
+jEdit.zip:__MACOSX/jEdit/de/masters_of_disaster/ant/tasks/ar/._ArConstants.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/de/masters_of_disaster/ant/tasks/ar/._ArConstants.java
+jEdit.zip:__MACOSX/jEdit/de/masters_of_disaster/ant/tasks/ar/._ArEntry.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/de/masters_of_disaster/ant/tasks/ar/._ArEntry.java
+jEdit.zip:__MACOSX/jEdit/de/masters_of_disaster/ant/tasks/ar/._ArOutputStream.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/de/masters_of_disaster/ant/tasks/ar/._ArOutputStream.java
+jEdit.zip:__MACOSX/jEdit/de/masters_of_disaster/ant/tasks/ar/._ArUtils.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/de/masters_of_disaster/ant/tasks/ar/._ArUtils.java
+jEdit.zip:__MACOSX/jEdit/de/masters_of_disaster/ant/tasks/calculatesize/._CalculateSize.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/de/masters_of_disaster/ant/tasks/calculatesize/._CalculateSize.java
+jEdit.zip:__MACOSX/jEdit/de/masters_of_disaster/ant/tasks/deb/._Deb.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/de/masters_of_disaster/ant/tasks/deb/._Deb.java
+jEdit.zip:__MACOSX/jEdit/doclet/._GenerateTocXML.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/doclet/._GenerateTocXML.java
+jEdit.zip:__MACOSX/jEdit/installer/._BZip2Constants.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/installer/._BZip2Constants.java
+jEdit.zip:__MACOSX/jEdit/installer/._CBZip2InputStream.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/installer/._CBZip2InputStream.java
+jEdit.zip:__MACOSX/jEdit/installer/._CBZip2OutputStream.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/installer/._CBZip2OutputStream.java
+jEdit.zip:__MACOSX/jEdit/installer/._CRC.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/installer/._CRC.java
+jEdit.zip:__MACOSX/jEdit/installer/._ConsoleInstall.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/installer/._ConsoleInstall.java
+jEdit.zip:__MACOSX/jEdit/installer/._ConsoleProgress.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/installer/._ConsoleProgress.java
+jEdit.zip:__MACOSX/jEdit/installer/._Install.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/installer/._Install.java
+jEdit.zip:__MACOSX/jEdit/installer/._InstallThread.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/installer/._InstallThread.java
+jEdit.zip:__MACOSX/jEdit/installer/._InvalidHeaderException.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/installer/._InvalidHeaderException.java
+jEdit.zip:__MACOSX/jEdit/installer/._NonInteractiveInstall.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/installer/._NonInteractiveInstall.java
+jEdit.zip:__MACOSX/jEdit/installer/._OperatingSystem.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/installer/._OperatingSystem.java
+jEdit.zip:__MACOSX/jEdit/installer/._Progress.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/installer/._Progress.java
+jEdit.zip:__MACOSX/jEdit/installer/._ServerKiller.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/installer/._ServerKiller.java
+jEdit.zip:__MACOSX/jEdit/installer/._SwingInstall.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/installer/._SwingInstall.java
+jEdit.zip:__MACOSX/jEdit/installer/._TarBuffer.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/installer/._TarBuffer.java
+jEdit.zip:__MACOSX/jEdit/installer/._TarEntry.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/installer/._TarEntry.java
+jEdit.zip:__MACOSX/jEdit/installer/._TarHeader.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/installer/._TarHeader.java
+jEdit.zip:__MACOSX/jEdit/installer/._TarInputStream.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/installer/._TarInputStream.java
+jEdit.zip:__MACOSX/jEdit/installer/._TarOutputStream.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/installer/._TarOutputStream.java
+jEdit.zip:__MACOSX/jEdit/misc/indentation_problems/._03.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/misc/indentation_problems/._03.java
+jEdit.zip:__MACOSX/jEdit/misc/indentation_problems/._04.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/misc/indentation_problems/._04.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._Abbrevs.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._Abbrevs.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._AbstractOptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._AbstractOptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._ActionContext.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._ActionContext.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._ActionListHandler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._ActionListHandler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._ActionSet.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._ActionSet.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._Autosave.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._Autosave.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._BeanShell.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._BeanShell.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._BeanShellAction.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._BeanShellAction.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._BeanShellFacade.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._BeanShellFacade.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._Buffer.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._Buffer.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._BufferHistory.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._BufferHistory.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._Debug.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._Debug.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._EBComponent.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._EBComponent.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._EBMessage.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._EBMessage.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._EBPlugin.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._EBPlugin.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._EditAction.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._EditAction.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._EditBus.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._EditBus.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._EditPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._EditPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._EditPlugin.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._EditPlugin.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._EditServer.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._EditServer.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._GUIUtilities.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._GUIUtilities.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._IPropertyManager.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._IPropertyManager.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._JARClassLoader.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._JARClassLoader.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._JEditAbstractEditAction.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._JEditAbstractEditAction.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._JEditActionContext.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._JEditActionContext.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._JEditActionSet.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._JEditActionSet.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._JEditBeanShellAction.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._JEditBeanShellAction.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._JEditKillRing.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._JEditKillRing.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._JEditMode.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._JEditMode.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._JEditRegisterSaver.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._JEditRegisterSaver.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._JEditRegistersListener.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._JEditRegistersListener.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._Macros.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._Macros.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._Marker.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._Marker.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._MiscUtilities.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._MiscUtilities.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._Mode.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._Mode.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._ModeCatalogHandler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._ModeCatalogHandler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._OperatingSystem.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._OperatingSystem.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._OptionGroup.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._OptionGroup.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._OptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._OptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._PerspectiveManager.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._PerspectiveManager.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._PluginJAR.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._PluginJAR.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._PropertyManager.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._PropertyManager.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._RegisterSaver.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._RegisterSaver.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._Registers.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._Registers.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._RegistersListener.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._RegistersListener.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._ServiceListHandler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._ServiceListHandler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._ServiceManager.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._ServiceManager.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._SettingsReloader.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._SettingsReloader.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._SettingsXML.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._SettingsXML.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._SplitConfigParser.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._SplitConfigParser.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._TextUtilities.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._TextUtilities.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._View.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._View.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._jEdit.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/._jEdit.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._AbstractBrowserTask.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._AbstractBrowserTask.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._BrowserCommandsMenu.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._BrowserCommandsMenu.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._BrowserListener.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._BrowserListener.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._BrowserView.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._BrowserView.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._DeleteBrowserTask.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._DeleteBrowserTask.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._FileCellRenderer.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._FileCellRenderer.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._ListDirectoryBrowserTask.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._ListDirectoryBrowserTask.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._MkDirBrowserTask.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._MkDirBrowserTask.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._RenameBrowserTask.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._RenameBrowserTask.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._VFSBrowser.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._VFSBrowser.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._VFSDirectoryEntryTable.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._VFSDirectoryEntryTable.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._VFSDirectoryEntryTableModel.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._VFSDirectoryEntryTableModel.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._VFSFileChooserDialog.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._VFSFileChooserDialog.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._VFSFileNameField.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/browser/._VFSFileNameField.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHAllocationExpression.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHAllocationExpression.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHAmbiguousName.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHAmbiguousName.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHArguments.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHArguments.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHArrayDimensions.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHArrayDimensions.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHArrayInitializer.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHArrayInitializer.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHAssignment.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHAssignment.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHBinaryExpression.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHBinaryExpression.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHBlock.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHBlock.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHCastExpression.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHCastExpression.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHClassDeclaration.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHClassDeclaration.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHEnhancedForStatement.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHEnhancedForStatement.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHForStatement.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHForStatement.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHFormalComment.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHFormalComment.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHFormalParameter.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHFormalParameter.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHFormalParameters.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHFormalParameters.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHIfStatement.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHIfStatement.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHImportDeclaration.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHImportDeclaration.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHLiteral.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHLiteral.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHMethodDeclaration.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHMethodDeclaration.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHMethodInvocation.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHMethodInvocation.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHPackageDeclaration.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHPackageDeclaration.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHPrimaryExpression.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHPrimaryExpression.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHPrimarySuffix.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHPrimarySuffix.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHPrimitiveType.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHPrimitiveType.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHReturnStatement.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHReturnStatement.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHReturnType.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHReturnType.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHStatementExpressionList.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHStatementExpressionList.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHSwitchLabel.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHSwitchLabel.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHSwitchStatement.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHSwitchStatement.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHTernaryExpression.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHTernaryExpression.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHThrowStatement.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHThrowStatement.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHTryStatement.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHTryStatement.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHType.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHType.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHTypedVariableDeclaration.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHTypedVariableDeclaration.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHUnaryExpression.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHUnaryExpression.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHVariableDeclarator.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHVariableDeclarator.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHWhileStatement.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BSHWhileStatement.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BlockNameSpace.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BlockNameSpace.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BshClassManager.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BshClassManager.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BshIterator.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BshIterator.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BshMethod.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._BshMethod.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._CallStack.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._CallStack.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._Capabilities.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._Capabilities.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ClassGenerator.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ClassGenerator.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ClassGeneratorImpl.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ClassGeneratorImpl.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ClassGeneratorUtil.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ClassGeneratorUtil.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ClassIdentifier.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ClassIdentifier.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ClassPathException.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ClassPathException.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._CollectionManager.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._CollectionManager.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._CommandLineReader.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._CommandLineReader.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ConsoleInterface.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ConsoleInterface.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._DelayedEvalBshMethod.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._DelayedEvalBshMethod.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._EvalError.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._EvalError.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ExternalNameSpace.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ExternalNameSpace.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._Interpreter.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._Interpreter.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._InterpreterError.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._InterpreterError.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._JJTParserState.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._JJTParserState.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._JThis.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._JThis.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._JavaCharStream.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._JavaCharStream.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._LHS.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._LHS.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._Modifiers.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._Modifiers.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._Name.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._Name.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._NameSource.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._NameSource.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._NameSpace.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._NameSpace.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._Node.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._Node.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ParseException.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ParseException.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._Parser.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._Parser.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ParserConstants.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ParserConstants.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ParserTokenManager.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ParserTokenManager.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ParserTreeConstants.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ParserTreeConstants.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._Primitive.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._Primitive.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._Reflect.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._Reflect.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ReflectError.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ReflectError.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ReflectManager.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ReflectManager.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._Remote.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._Remote.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ReturnControl.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._ReturnControl.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._SimpleNode.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._SimpleNode.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._StringUtil.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._StringUtil.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._TargetError.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._TargetError.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._This.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._This.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._Token.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._Token.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._TokenMgrError.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._TokenMgrError.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._Types.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._Types.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._UtilEvalError.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._UtilEvalError.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._UtilTargetError.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._UtilTargetError.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._Variable.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._Variable.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._XThis.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/._XThis.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/classpath/._BshClassLoader.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/classpath/._BshClassLoader.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/classpath/._BshClassPath.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/classpath/._BshClassPath.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/classpath/._ClassManagerImpl.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/classpath/._ClassManagerImpl.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/classpath/._ClassPathListener.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/classpath/._ClassPathListener.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/classpath/._DiscreteFilesClassLoader.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/classpath/._DiscreteFilesClassLoader.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/collection/._CollectionIterator.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/collection/._CollectionIterator.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/collection/._CollectionManagerImpl.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/collection/._CollectionManagerImpl.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/commands/._dir.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/commands/._dir.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/._ByteVector.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/._ByteVector.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/._ClassVisitor.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/._ClassVisitor.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/._ClassWriter.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/._ClassWriter.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/._CodeVisitor.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/._CodeVisitor.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/._CodeWriter.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/._CodeWriter.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/._Constants.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/._Constants.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/._Edge.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/._Edge.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/._Item.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/._Item.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/._Label.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/._Label.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/._Type.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/org/objectweb/asm/._Type.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/reflect/._ReflectManagerImpl.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bsh/reflect/._ReflectManagerImpl.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._BufferAdapter.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._BufferAdapter.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._BufferListener.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._BufferListener.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._BufferSegment.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._BufferSegment.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._BufferUndoListener.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._BufferUndoListener.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._ContentManager.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._ContentManager.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._DefaultFoldHandlerProvider.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._DefaultFoldHandlerProvider.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._DummyFoldHandler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._DummyFoldHandler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._ExplicitFoldHandler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._ExplicitFoldHandler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._FoldHandler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._FoldHandler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._FoldHandlerProvider.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._FoldHandlerProvider.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._IndentFoldHandler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._IndentFoldHandler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._JEditBuffer.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._JEditBuffer.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._KillRing.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._KillRing.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._LineManager.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._LineManager.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._PositionManager.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._PositionManager.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._UndoManager.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/buffer/._UndoManager.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bufferio/._BufferAutosaveRequest.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bufferio/._BufferAutosaveRequest.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bufferio/._BufferIORequest.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bufferio/._BufferIORequest.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bufferio/._BufferInsertRequest.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bufferio/._BufferInsertRequest.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bufferio/._BufferLoadRequest.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bufferio/._BufferLoadRequest.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bufferio/._BufferSaveRequest.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bufferio/._BufferSaveRequest.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bufferio/._IoTask.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bufferio/._IoTask.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bufferio/._MarkersSaveRequest.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bufferio/._MarkersSaveRequest.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bufferset/._BufferSet.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bufferset/._BufferSet.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bufferset/._BufferSetAdapter.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bufferset/._BufferSetAdapter.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bufferset/._BufferSetListener.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bufferset/._BufferSetListener.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bufferset/._BufferSetManager.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/bufferset/._BufferSetManager.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/datatransfer/._JEditDataFlavor.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/datatransfer/._JEditDataFlavor.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/datatransfer/._JEditRichText.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/datatransfer/._JEditRichText.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/datatransfer/._JEditTransferable.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/datatransfer/._JEditTransferable.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/datatransfer/._JEditTransferableService.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/datatransfer/._JEditTransferableService.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/datatransfer/._ListVFSFileTransferable.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/datatransfer/._ListVFSFileTransferable.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/datatransfer/._RichJEditTextTransferableService.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/datatransfer/._RichJEditTextTransferableService.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/datatransfer/._RichTextTransferable.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/datatransfer/._RichTextTransferable.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/datatransfer/._StringTransferableService.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/datatransfer/._StringTransferableService.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/datatransfer/._TransferHandler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/datatransfer/._TransferHandler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._AbbrevEditor.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._AbbrevEditor.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._AboutDialog.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._AboutDialog.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._AbstractContextOptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._AbstractContextOptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._ActionBar.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._ActionBar.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._AddAbbrevDialog.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._AddAbbrevDialog.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._AddModeDialog.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._AddModeDialog.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._AnimatedIcon.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._AnimatedIcon.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._BeanShellErrorDialog.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._BeanShellErrorDialog.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._BufferOptions.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._BufferOptions.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._BufferSwitcher.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._BufferSwitcher.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._CloseDialog.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._CloseDialog.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._ColorChooserDialog.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._ColorChooserDialog.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._ColorWellButton.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._ColorWellButton.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._CompleteWord.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._CompleteWord.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._CompletionPopup.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._CompletionPopup.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._ContextAddDialog.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._ContextAddDialog.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DefaultFocusComponent.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DefaultFocusComponent.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DefaultInputHandler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DefaultInputHandler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DockableLayout.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DockableLayout.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DockablePanel.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DockablePanel.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DockableWindow.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DockableWindow.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DockableWindowContainer.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DockableWindowContainer.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DockableWindowFactory.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DockableWindowFactory.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DockableWindowManager.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DockableWindowManager.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DockableWindowManagerImpl.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DockableWindowManagerImpl.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DockableWindowManagerProvider.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DockableWindowManagerProvider.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DockingFrameworkProvider.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DockingFrameworkProvider.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DockingLayoutManager.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DockingLayoutManager.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DropShadowBorder.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DropShadowBorder.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DynamicContextMenuService.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._DynamicContextMenuService.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._EditAbbrevDialog.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._EditAbbrevDialog.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._EnhancedButton.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._EnhancedButton.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._EnhancedDialog.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._EnhancedDialog.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._ErrorListDialog.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._ErrorListDialog.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._ExtendedGridLayout.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._ExtendedGridLayout.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._ExtendedGridLayoutConstraints.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._ExtendedGridLayoutConstraints.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._FilePropertiesDialog.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._FilePropertiesDialog.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._FilesChangedDialog.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._FilesChangedDialog.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._FilteredListModel.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._FilteredListModel.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._FilteredTableModel.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._FilteredTableModel.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._FloatingWindowContainer.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._FloatingWindowContainer.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._FontSelector.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._FontSelector.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._FontSelectorDialog.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._FontSelectorDialog.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._GrabKeyDialog.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._GrabKeyDialog.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._HistoryModel.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._HistoryModel.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._HistoryModelSaver.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._HistoryModelSaver.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._HistoryText.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._HistoryText.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._HistoryTextArea.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._HistoryTextArea.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._HistoryTextField.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._HistoryTextField.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._InputHandler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._InputHandler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._JCheckBoxList.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._JCheckBoxList.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._JEditHistoryModelSaver.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._JEditHistoryModelSaver.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._KeyEventTranslator.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._KeyEventTranslator.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._KeyEventWorkaround.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._KeyEventWorkaround.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._ListModelEditor.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._ListModelEditor.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._LogViewer.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._LogViewer.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._MarkerViewer.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._MarkerViewer.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._MutableListModel.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._MutableListModel.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._NumericTextField.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._NumericTextField.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._OptionsDialog.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._OptionsDialog.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._PanelWindowContainer.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._PanelWindowContainer.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._PasteFromListDialog.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._PasteFromListDialog.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._PasteSpecialDialog.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._PasteSpecialDialog.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._PingPongList.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._PingPongList.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._RegisterViewer.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._RegisterViewer.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._RolloverButton.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._RolloverButton.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._SelectLineRange.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._SelectLineRange.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._ShortcutPrefixActiveEvent.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._ShortcutPrefixActiveEvent.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._SplashScreen.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._SplashScreen.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._StatusBar.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._StatusBar.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._StyleEditor.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._StyleEditor.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._TaskMonitor.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._TaskMonitor.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._TextAreaDialog.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._TextAreaDialog.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._TipOfTheDay.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._TipOfTheDay.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._ToolBarManager.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._ToolBarManager.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._VariableGridLayout.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/._VariableGridLayout.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._BufferSetWidgetFactory.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._BufferSetWidgetFactory.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._ClockWidgetFactory.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._ClockWidgetFactory.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._EncodingWidgetFactory.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._EncodingWidgetFactory.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._ErrorsWidgetFactory.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._ErrorsWidgetFactory.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._FoldWidgetFactory.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._FoldWidgetFactory.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._HoverSetStatusMouseHandler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._HoverSetStatusMouseHandler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._IndentWidgetFactory.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._IndentWidgetFactory.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._LastModifiedWidgetFactory.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._LastModifiedWidgetFactory.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._LineSepWidgetFactory.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._LineSepWidgetFactory.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._MemoryStatusWidgetFactory.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._MemoryStatusWidgetFactory.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._ModeWidgetFactory.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._ModeWidgetFactory.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._MultiSelectWidgetFactory.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._MultiSelectWidgetFactory.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._OverwriteWidgetFactory.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._OverwriteWidgetFactory.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._RectSelectWidgetFactory.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._RectSelectWidgetFactory.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._SelectionLengthWidgetFactory.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._SelectionLengthWidgetFactory.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._StatusWidgetFactory.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._StatusWidgetFactory.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._TaskMonitorWidgetFactory.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._TaskMonitorWidgetFactory.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._ToolTipLabel.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._ToolTipLabel.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._Widget.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._Widget.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._WrapWidgetFactory.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/statusbar/._WrapWidgetFactory.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/tray/._JEditSwingTrayIcon.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/tray/._JEditSwingTrayIcon.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/tray/._JEditTrayIcon.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/tray/._JEditTrayIcon.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/tray/._JTrayIcon.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/tray/._JTrayIcon.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/tray/._JTrayIconManager.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/gui/tray/._JTrayIconManager.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/help/._HelpHistoryModel.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/help/._HelpHistoryModel.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/help/._HelpHistoryModelListener.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/help/._HelpHistoryModelListener.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/help/._HelpIndex.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/help/._HelpIndex.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/help/._HelpSearchPanel.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/help/._HelpSearchPanel.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/help/._HelpTOCLoader.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/help/._HelpTOCLoader.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/help/._HelpTOCPanel.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/help/._HelpTOCPanel.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/help/._HelpViewer.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/help/._HelpViewer.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/help/._HelpViewerInterface.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/help/._HelpViewerInterface.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/help/._HistoryButton.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/help/._HistoryButton.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/indent/._BracketIndentRule.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/indent/._BracketIndentRule.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/indent/._CloseBracketIndentRule.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/indent/._CloseBracketIndentRule.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/indent/._DeepIndentRule.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/indent/._DeepIndentRule.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/indent/._IndentAction.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/indent/._IndentAction.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/indent/._IndentRule.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/indent/._IndentRule.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/indent/._IndentRuleFactory.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/indent/._IndentRuleFactory.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/indent/._OpenBracketIndentRule.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/indent/._OpenBracketIndentRule.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/indent/._RegexpIndentRule.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/indent/._RegexpIndentRule.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/indent/._WhitespaceRule.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/indent/._WhitespaceRule.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/input/._AbstractInputHandler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/input/._AbstractInputHandler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/input/._DefaultInputHandlerProvider.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/input/._DefaultInputHandlerProvider.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/input/._InputHandlerProvider.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/input/._InputHandlerProvider.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/input/._TextAreaInputHandler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/input/._TextAreaInputHandler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._AutoDetection.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._AutoDetection.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._CharsetEncoding.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._CharsetEncoding.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._CopyFileWorker.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._CopyFileWorker.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._Encoding.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._Encoding.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._EncodingDetector.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._EncodingDetector.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._EncodingServer.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._EncodingServer.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._EncodingWithBOM.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._EncodingWithBOM.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._FavoritesVFS.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._FavoritesVFS.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._FileRootsVFS.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._FileRootsVFS.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._FileVFS.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._FileVFS.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._GlobVFSFileFilter.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._GlobVFSFileFilter.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._LocalFileSaveTask.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._LocalFileSaveTask.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._RegexEncodingDetector.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._RegexEncodingDetector.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._UrlVFS.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._UrlVFS.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._VFS.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._VFS.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._VFSFile.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._VFSFile.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._VFSFileFilter.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._VFSFileFilter.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._VFSManager.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._VFSManager.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._XMLEncodingDetector.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/io/._XMLEncodingDetector.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/menu/._DirectoryProvider.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/menu/._DirectoryProvider.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/menu/._DynamicMenuProvider.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/menu/._DynamicMenuProvider.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/menu/._EnhancedCheckBoxMenuItem.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/menu/._EnhancedCheckBoxMenuItem.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/menu/._EnhancedMenu.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/menu/._EnhancedMenu.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/menu/._EnhancedMenuItem.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/menu/._EnhancedMenuItem.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/menu/._FavoritesProvider.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/menu/._FavoritesProvider.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/menu/._MacrosProvider.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/menu/._MacrosProvider.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/menu/._MarkersProvider.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/menu/._MarkersProvider.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/menu/._MenuItemTextComparator.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/menu/._MenuItemTextComparator.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/menu/._PluginsProvider.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/menu/._PluginsProvider.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/menu/._RecentDirectoriesProvider.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/menu/._RecentDirectoriesProvider.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/menu/._RecentFilesProvider.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/menu/._RecentFilesProvider.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/menu/._ReloadWithEncodingProvider.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/menu/._ReloadWithEncodingProvider.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._BufferChanging.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._BufferChanging.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._BufferUpdate.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._BufferUpdate.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._DockableWindowUpdate.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._DockableWindowUpdate.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._DynamicMenuChanged.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._DynamicMenuChanged.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._EditPaneUpdate.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._EditPaneUpdate.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._EditorExitRequested.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._EditorExitRequested.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._EditorExiting.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._EditorExiting.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._EditorStarted.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._EditorStarted.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._PluginUpdate.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._PluginUpdate.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._PositionChanging.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._PositionChanging.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._PropertiesChanged.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._PropertiesChanged.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._PropertiesChanging.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._PropertiesChanging.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._RegisterChanged.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._RegisterChanged.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._SearchSettingsChanged.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._SearchSettingsChanged.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._VFSPathSelected.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._VFSPathSelected.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._VFSUpdate.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._VFSUpdate.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._ViewUpdate.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/msg/._ViewUpdate.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._AbbrevsOptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._AbbrevsOptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._AppearanceOptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._AppearanceOptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._BrowserColorsOptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._BrowserColorsOptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._BrowserContextOptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._BrowserContextOptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._BrowserOptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._BrowserOptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._BufferOptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._BufferOptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._ContextOptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._ContextOptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._DockingOptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._DockingOptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._EditModesPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._EditModesPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._EditingOptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._EditingOptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._EncodingsOptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._EncodingsOptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._FirewallOptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._FirewallOptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._GeneralOptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._GeneralOptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._GlobalOptions.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._GlobalOptions.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._GutterOptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._GutterOptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._IconTheme.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._IconTheme.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._IntegerInputVerifier.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._IntegerInputVerifier.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._LargeFilesOptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._LargeFilesOptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._ModeSettingsPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._ModeSettingsPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._MouseOptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._MouseOptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._PluginManagerOptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._PluginManagerOptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._PluginOptions.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._PluginOptions.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._PrintOptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._PrintOptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._SaveBackupOptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._SaveBackupOptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._ShortcutsOptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._ShortcutsOptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._StatusBarOptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._StatusBarOptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._SyntaxHiliteOptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._SyntaxHiliteOptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._TextAreaOptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._TextAreaOptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._ToolBarOptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._ToolBarOptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._UndoPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._UndoPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._ViewOptionPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/options/._ViewOptionPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/pluginmgr/._InstallPanel.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/pluginmgr/._InstallPanel.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/pluginmgr/._KeyboardCommand.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/pluginmgr/._KeyboardCommand.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/pluginmgr/._ManagePanel.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/pluginmgr/._ManagePanel.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/pluginmgr/._MirrorList.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/pluginmgr/._MirrorList.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/pluginmgr/._MirrorListHandler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/pluginmgr/._MirrorListHandler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/pluginmgr/._PluginDetailPanel.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/pluginmgr/._PluginDetailPanel.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/pluginmgr/._PluginList.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/pluginmgr/._PluginList.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/pluginmgr/._PluginListHandler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/pluginmgr/._PluginListHandler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/pluginmgr/._PluginManager.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/pluginmgr/._PluginManager.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/pluginmgr/._PluginManagerProgress.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/pluginmgr/._PluginManagerProgress.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/pluginmgr/._Roster.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/pluginmgr/._Roster.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._BasicPrintPreviewPaneUI.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._BasicPrintPreviewPaneUI.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._BufferPrintable.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._BufferPrintable.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._BufferPrintable1_7.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._BufferPrintable1_7.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._BufferPrinter1_3.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._BufferPrinter1_3.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._BufferPrinter1_4.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._BufferPrinter1_4.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._BufferPrinter1_7.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._BufferPrinter1_7.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._Margins.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._Margins.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._PageBreakExtension.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._PageBreakExtension.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._PrintPreview.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._PrintPreview.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._PrintPreviewModel.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._PrintPreviewModel.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._PrintPreviewPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._PrintPreviewPane.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._PrintPreviewPaneUI.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._PrintPreviewPaneUI.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._PrinterDialog.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._PrinterDialog.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._Range.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/print/._Range.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/proto/jeditresource/._Handler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/proto/jeditresource/._Handler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/proto/jeditresource/._PluginResURLConnection.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/proto/jeditresource/._PluginResURLConnection.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._AllBufferSet.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._AllBufferSet.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._BoyerMooreSearchMatcher.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._BoyerMooreSearchMatcher.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._BufferListSet.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._BufferListSet.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._CurrentBufferSet.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._CurrentBufferSet.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._DirectoryListSet.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._DirectoryListSet.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._HyperSearchFileNode.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._HyperSearchFileNode.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._HyperSearchFolderNode.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._HyperSearchFolderNode.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._HyperSearchNode.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._HyperSearchNode.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._HyperSearchOperationNode.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._HyperSearchOperationNode.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._HyperSearchRequest.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._HyperSearchRequest.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._HyperSearchResult.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._HyperSearchResult.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._HyperSearchResults.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._HyperSearchResults.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._HyperSearchTreeNodeCallback.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._HyperSearchTreeNodeCallback.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._PatternSearchMatcher.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._PatternSearchMatcher.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._SearchAndReplace.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._SearchAndReplace.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._SearchBar.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._SearchBar.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._SearchDialog.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._SearchDialog.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._SearchFileSet.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._SearchFileSet.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._SearchMatcher.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/search/._SearchMatcher.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._Chunk.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._Chunk.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._DefaultTokenHandler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._DefaultTokenHandler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._DisplayTokenHandler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._DisplayTokenHandler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._DummyTokenHandler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._DummyTokenHandler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._KeywordMap.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._KeywordMap.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._ModeProvider.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._ModeProvider.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._ParserRule.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._ParserRule.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._ParserRuleSet.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._ParserRuleSet.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._SyntaxStyle.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._SyntaxStyle.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._SyntaxUtilities.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._SyntaxUtilities.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._Token.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._Token.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._TokenHandler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._TokenHandler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._TokenMarker.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._TokenMarker.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._XModeHandler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/syntax/._XModeHandler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._Anchor.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._Anchor.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._AntiAlias.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._AntiAlias.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._BufferHandler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._BufferHandler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._ChunkCache.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._ChunkCache.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._CircleFoldPainter.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._CircleFoldPainter.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._ColumnBlock.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._ColumnBlock.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._ColumnBlockLine.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._ColumnBlockLine.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._DisplayManager.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._DisplayManager.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._ElasticTabStopBufferListener.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._ElasticTabStopBufferListener.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._ElasticTabstopsTabExpander.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._ElasticTabstopsTabExpander.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._ExtensionManager.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._ExtensionManager.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._FirstLine.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._FirstLine.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._FoldPainter.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._FoldPainter.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._Gutter.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._Gutter.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._GutterPopupHandler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._GutterPopupHandler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._InputMethodSupport.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._InputMethodSupport.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._JEditEmbeddedTextArea.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._JEditEmbeddedTextArea.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._JEditTextArea.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._JEditTextArea.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._MouseActions.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._MouseActions.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._MouseActionsProvider.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._MouseActionsProvider.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._MouseHandler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._MouseHandler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._Node.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._Node.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._RangeMap.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._RangeMap.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._ScreenLineManager.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._ScreenLineManager.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._ScrollLayout.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._ScrollLayout.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._ScrollLineCount.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._ScrollLineCount.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._ScrollListener.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._ScrollListener.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._Selection.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._Selection.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._SelectionManager.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._SelectionManager.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._ShapedFoldPainter.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._ShapedFoldPainter.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._SquareFoldPainter.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._SquareFoldPainter.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._StandaloneTextArea.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._StandaloneTextArea.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._StatusListener.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._StatusListener.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._StructureMatcher.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._StructureMatcher.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._TextArea.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._TextArea.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._TextAreaBorder.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._TextAreaBorder.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._TextAreaDropHandler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._TextAreaDropHandler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._TextAreaException.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._TextAreaException.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._TextAreaExtension.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._TextAreaExtension.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._TextAreaMouseHandler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._TextAreaMouseHandler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._TextAreaPainter.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._TextAreaPainter.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._TextAreaTransferHandler.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._TextAreaTransferHandler.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._TriangleFoldPainter.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/textarea/._TriangleFoldPainter.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/visitors/._JEditVisitor.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/visitors/._JEditVisitor.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/visitors/._JEditVisitorAdapter.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/visitors/._JEditVisitorAdapter.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/visitors/._SaveCaretInfoVisitor.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/jedit/visitors/._SaveCaretInfoVisitor.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._AwtRunnableQueue.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._AwtRunnableQueue.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._EnhancedTreeCellRenderer.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._EnhancedTreeCellRenderer.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._GenericGUIUtilities.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._GenericGUIUtilities.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._HtmlUtilities.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._HtmlUtilities.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._IOUtilities.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._IOUtilities.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._IntegerArray.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._IntegerArray.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._Log.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._Log.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._ProgressObserver.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._ProgressObserver.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._PropertiesBean.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._PropertiesBean.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._ReverseCharSequence.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._ReverseCharSequence.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._SegmentBuffer.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._SegmentBuffer.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._SegmentCharSequence.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._SegmentCharSequence.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._StandardUtilities.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._StandardUtilities.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._StringList.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._StringList.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._StringModel.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._StringModel.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._SyntaxUtilities.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._SyntaxUtilities.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._Task.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._Task.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._TaskAdapter.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._TaskAdapter.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._TaskListener.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._TaskListener.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._TaskManager.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._TaskManager.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._ThreadAbortMonitor.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._ThreadAbortMonitor.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._ThreadUtilities.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._ThreadUtilities.java
+jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._XMLUtilities.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/gjt/sp/util/._XMLUtilities.java
+jEdit.zip:__MACOSX/jEdit/org/jedit/core/._FileOpenerService.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/jedit/core/._FileOpenerService.java
+jEdit.zip:__MACOSX/jEdit/org/jedit/core/._MigrationService.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/jedit/core/._MigrationService.java
+jEdit.zip:__MACOSX/jEdit/org/jedit/io/._Native2ASCIIEncoding.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/jedit/io/._Native2ASCIIEncoding.java
+jEdit.zip:__MACOSX/jEdit/org/jedit/keymap/._EmacsUtil.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/jedit/keymap/._EmacsUtil.java
+jEdit.zip:__MACOSX/jEdit/org/jedit/keymap/._Keymap.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/jedit/keymap/._Keymap.java
+jEdit.zip:__MACOSX/jEdit/org/jedit/keymap/._KeymapFileFilter.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/jedit/keymap/._KeymapFileFilter.java
+jEdit.zip:__MACOSX/jEdit/org/jedit/keymap/._KeymapImpl.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/jedit/keymap/._KeymapImpl.java
+jEdit.zip:__MACOSX/jEdit/org/jedit/keymap/._KeymapManager.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/jedit/keymap/._KeymapManager.java
+jEdit.zip:__MACOSX/jEdit/org/jedit/keymap/._KeymapManagerImpl.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/jedit/keymap/._KeymapManagerImpl.java
+jEdit.zip:__MACOSX/jEdit/org/jedit/migration/._CheckFileStatus.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/jedit/migration/._CheckFileStatus.java
+jEdit.zip:__MACOSX/jEdit/org/jedit/migration/._KeymapMigration.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/jedit/migration/._KeymapMigration.java
+jEdit.zip:__MACOSX/jEdit/org/jedit/migration/._OneTimeMigrationService.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/jedit/migration/._OneTimeMigrationService.java
+jEdit.zip:__MACOSX/jEdit/org/jedit/options/._CombinedOptions.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/jedit/options/._CombinedOptions.java
+jEdit.zip:__MACOSX/jEdit/org/jedit/options/._GlobalOptionGroup.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/jedit/options/._GlobalOptionGroup.java
+jEdit.zip:__MACOSX/jEdit/org/jedit/options/._OptionGroupPane.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/jedit/options/._OptionGroupPane.java
+jEdit.zip:__MACOSX/jEdit/org/jedit/options/._OptionTreeModel.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/jedit/options/._OptionTreeModel.java
+jEdit.zip:__MACOSX/jEdit/org/jedit/options/._PluginOptionGroup.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/jedit/options/._PluginOptionGroup.java
+jEdit.zip:__MACOSX/jEdit/org/jedit/options/._TabbedOptionDialog.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/org/jedit/options/._TabbedOptionDialog.java
+jEdit.zip:__MACOSX/jEdit/test/org/jedit/io/._Native2ASCIIEncodingTest.java	-	Error while processing jEdit.zip:__MACOSX/jEdit/test/org/jedit/io/._Native2ASCIIEncodingTest.java
+jEdit.zip:jEdit/misc/indentation_problems/03.java	-	Error while parsing jEdit.zip:jEdit/misc/indentation_problems/03.java
+jEdit.zip:jEdit/misc/indentation_problems/04.java	-	Error while parsing jEdit.zip:jEdit/misc/indentation_problems/04.java
+19.5444839001
